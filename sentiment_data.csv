@@ -1,0 +1,1423 @@
+sentence,label
+"Công ty A đã giảm phát thải carbon 20% so với năm trước.",positive
+"Công ty B triển khai thành công dự án năng lượng tái tạo.",positive
+"Công ty C tăng quỹ học bổng cho sinh viên vùng nông thôn.",positive
+"Doanh nghiệp D áp dụng chính sách đa dạng và hòa nhập nội bộ.",positive
+"Tập đoàn E nâng cao tiêu chí quản trị rủi ro tài chính.",positive
+"Công ty F cải thiện điều kiện làm việc cho công nhân.",positive
+"Công ty G phát hành trái phiếu xanh với lãi suất ưu đãi.",positive
+"Công ty H công bố báo cáo minh bạch về quản trị công ty.",positive
+"Doanh nghiệp I đã tái chế 90% chất thải rắn.",positive
+"Công ty J giảm mức sử dụng nước 30% trong sản xuất.",positive
+"Công ty K đào tạo nhân viên về an toàn lao động.",positive
+"Doanh nghiệp L áp dụng chuỗi cung ứng thô bền vững.",positive
+"Công ty M tăng tỷ lệ giám đốc nữ lên 40%.",positive
+"Tập đoàn N cải tiến quy trình kiểm toán nội bộ.",positive
+"Doanh nghiệp O khởi động chương trình hỗ trợ cộng đồng.",positive
+"Công ty P hợp tác với NGO về bảo tồn đa dạng sinh học.",positive
+"Công ty Q đầu tư vào công nghệ tiết kiệm năng lượng.",positive
+"Công ty R vi phạm mức giới hạn phát thải cho phép.",negative
+"Doanh nghiệp S bị phát hiện sử dụng lao động trẻ em.",negative
+"Công ty T không minh bạch trong báo cáo tài chính.",negative
+"Doanh nghiệp U thường xuyên gây ô nhiễm nguồn nước.",negative
+"Công ty V bị phạt vì gian lận kế toán.",negative
+"Doanh nghiệp W thiếu chính sách bảo hộ lao động.",negative
+"Công ty X gặp bê bối hối lộ quan chức.",negative
+"Doanh nghiệp Y xử lý chất thải nguy hại không theo quy trình.",negative
+"Công ty Z thiếu trách nhiệm trong việc bảo vệ dữ liệu khách hàng.",negative
+"Doanh nghiệp AA không tuân thủ quy định an toàn cháy nổ.",negative
+"Công ty BB thiếu kế hoạch giảm thiểu khí nhà kính.",negative
+"Doanh nghiệp CC phân biệt đối xử nhân viên.",negative
+"Công ty DD thiếu giám sát ủy ban kiểm toán.",negative
+"Doanh nghiệp EE phớt lờ cảnh báo về rủi ro xã hội.",negative
+"Công ty FF không có chính sách ứng phó biến đổi khí hậu.",negative
+"Doanh nghiệp GG bị kiện vì xâm phạm quyền lợi cộng đồng.",negative
+"Công ty HH trì hoãn công bố báo cáo bền vững.",negative
+"Báo cáo bền vững năm 2025 được công bố vào tháng 6.",neutral
+"Công ty II đang đánh giá lại chỉ số ESG nội bộ.",neutral
+"Doanh nghiệp JJ tổ chức hội thảo về phát triển bền vững.",neutral
+"Báo cáo tài chính quý 1 bao gồm các số liệu về môi trường.",neutral
+"Công ty KK thành lập ủy ban ESG vào đầu năm.",neutral
+"Doanh nghiệp LL công bố chỉ số carbon trong báo cáo.",neutral
+"Công ty MM thử nghiệm hệ thống quản lý chất thải.",neutral
+"Doanh nghiệp NN tổ chức khảo sát ý kiến nhân viên.",neutral
+"Công ty OO báo cáo kết quả kiểm toán nội bộ.",neutral
+"Tập đoàn PP rà soát chính sách nhân sự.",neutral
+"Doanh nghiệp QQ công bố báo cáo tác động xã hội.",neutral
+"Công ty RR tiến hành đánh giá rủi ro tài chính.",neutral
+"Doanh nghiệp SS họp bàn triển khai mục tiêu bền vững.",neutral
+"Công ty TT ghi nhận số liệu về tiêu thụ năng lượng.",neutral
+"Doanh nghiệp UU nghiên cứu thị trường liên quan ESG.",neutral
+"Công ty VV thu thập phản hồi khách hàng về bền vững.",neutral
+"Công ty WW ký kết hợp đồng mua điện từ nguồn năng lượng sạch.",positive
+"Doanh nghiệp XX tài trợ học bổng cho trẻ em khó khăn tại địa phương.",positive
+"Tập đoàn YY đạt chứng nhận quốc tế về quản lý môi trường.",positive
+"Công ty ZZ công bố chính sách bảo vệ đa dạng sinh học tại dự án mới.",positive
+"Doanh nghiệp AB phát động chiến dịch giảm rác thải nhựa trong cộng đồng.",positive
+"Công ty AC tăng cường minh bạch công bố thông tin về hoạt động xã hội.",positive
+"Tập đoàn AD xây dựng nhà máy đạt chuẩn tiết kiệm năng lượng.",positive
+"Doanh nghiệp AE mở lớp đào tạo kỹ năng nghề cho lao động trẻ.",positive
+"Công ty AF hợp tác cùng đối tác quốc tế về phát triển bền vững.",positive
+"Doanh nghiệp AG đạt thành tích xuất sắc trong quản trị rủi ro doanh nghiệp.",positive
+"Công ty AH đầu tư hệ thống xử lý nước thải hiện đại.",positive
+"Tập đoàn AI đạt giải thưởng về trách nhiệm xã hội doanh nghiệp.",positive
+"Doanh nghiệp AJ tổ chức chương trình hiến máu nhân đạo cho cộng đồng.",positive
+"Công ty AK áp dụng công nghệ xanh trong dây chuyền sản xuất.",positive
+"Doanh nghiệp AL ký cam kết không sử dụng lao động cưỡng bức.",positive
+"Tập đoàn AM công bố báo cáo tác động môi trường minh bạch.",positive
+"Công ty AN tăng cường sự đa dạng giới trong đội ngũ lãnh đạo.",positive
+"Doanh nghiệp AO hỗ trợ tài chính cho các dự án môi trường địa phương.",positive
+"Công ty AP triển khai chương trình tái trồng rừng ven biển.",positive
+"Doanh nghiệp AQ đảm bảo quyền lợi bảo hiểm cho toàn bộ nhân viên.",positive
+"Công ty AR bị phát hiện xả thải hóa chất ra sông.",negative
+"Doanh nghiệp AS bị chỉ trích vì sa thải hàng loạt không hỗ trợ.",negative
+"Tập đoàn AT bị đình chỉ dự án do vi phạm quy định môi trường.",negative
+"Công ty AU không thực hiện kiểm toán độc lập báo cáo bền vững.",negative
+"Doanh nghiệp AV bị tố cáo quấy rối nơi làm việc.",negative
+"Công ty AW bị xử phạt vì không công bố thông tin rủi ro tài chính.",negative
+"Doanh nghiệp AX bị khách hàng phản ánh về sản phẩm gây ô nhiễm.",negative
+"Công ty AY thiếu minh bạch trong sử dụng vốn đầu tư xã hội.",negative
+"Tập đoàn AZ gặp sự cố rò rỉ khí độc tại nhà máy.",negative
+"Doanh nghiệp BA không có chương trình đào tạo an toàn lao động.",negative
+"Công ty BB bị xử lý hình sự vì làm sai lệch số liệu phát thải.",negative
+"Doanh nghiệp BC chưa ban hành quy trình bảo vệ dữ liệu cá nhân.",negative
+"Tập đoàn BD vi phạm luật cạnh tranh trong đấu thầu dự án.",negative
+"Công ty BE bị phản ánh về lương thấp cho nhân viên hợp đồng.",negative
+"Doanh nghiệp BF bị cấm xuất khẩu do không đáp ứng tiêu chuẩn môi trường.",negative
+"Công ty BG trì hoãn bồi thường cho người lao động bị tai nạn.",negative
+"Doanh nghiệp BH bị phát hiện gian lận trong kiểm toán nội bộ.",negative
+"Tập đoàn BI không thực hiện cam kết giảm phát thải khí nhà kính.",negative
+"Công ty BJ bị chỉ trích thiếu chính sách phòng chống quấy rối.",negative
+"Doanh nghiệp BK không hỗ trợ cộng đồng bị ảnh hưởng bởi dự án.",negative
+"Tập đoàn BL bị phạt do không tuân thủ quy định sử dụng tài nguyên nước.",negative
+"Công ty BM công bố mục tiêu giảm phát thải khí nhà kính đến năm 2030.",neutral
+"Doanh nghiệp BN đang nghiên cứu áp dụng công nghệ mới cho sản xuất sạch hơn.",neutral
+"Tập đoàn BO tổ chức hội thảo chia sẻ kinh nghiệm quản trị ESG.",neutral
+"Công ty BP công bố số liệu về tỷ lệ phụ nữ trong ban lãnh đạo.",neutral
+"Doanh nghiệp BQ thực hiện khảo sát mức độ hài lòng của nhân viên.",neutral
+"Công ty BR cập nhật chính sách bảo vệ môi trường trong năm nay.",neutral
+"Doanh nghiệp BS thử nghiệm mô hình làm việc linh hoạt.",neutral
+"Tập đoàn BT lập báo cáo đánh giá tác động xã hội cho dự án mới.",neutral
+"Công ty BU công bố chiến lược phát triển bền vững giai đoạn 2025-2030.",neutral
+"Doanh nghiệp BV hợp tác với cơ quan chức năng trong công tác kiểm tra môi trường.",neutral
+"Công ty BW báo cáo kết quả thực hiện mục tiêu ESG năm 2024.",neutral
+"Doanh nghiệp BX phát hành tài liệu hướng dẫn về chính sách ESG.",neutral
+"Công ty BY áp dụng hệ thống chiếu sáng tiết kiệm năng lượng cho toàn bộ nhà máy.",positive
+"Doanh nghiệp BZ tăng cường chính sách bảo vệ sức khỏe nhân viên.",positive
+"Tập đoàn CA triển khai chương trình giáo dục môi trường cho học sinh địa phương.",positive
+"Công ty CB đạt chứng nhận về chống tham nhũng quốc tế.",positive
+"Doanh nghiệp CC hỗ trợ vốn vay ưu đãi cho dự án nông nghiệp bền vững.",positive
+"Công ty CD xây dựng khuôn viên xanh trong khu công nghiệp.",positive
+"Tập đoàn CE tổ chức ngày hội trồng cây gây rừng trên toàn quốc.",positive
+"Công ty CF tăng đầu tư vào hệ thống lọc khí thải.",positive
+"Doanh nghiệp CG tặng quà cho gia đình khó khăn trong mùa dịch.",positive
+"Công ty CH thực hiện kiểm toán nội bộ định kỳ nhằm nâng cao minh bạch.",positive
+"Doanh nghiệp CI mở rộng chương trình bảo hiểm sức khỏe cho nhân viên.",positive
+"Công ty CJ phát động chiến dịch tiết kiệm điện năng.",positive
+"Tập đoàn CK hợp tác với tổ chức quốc tế về quản lý chất thải.",positive
+"Doanh nghiệp CL khen thưởng nhân viên có sáng kiến bảo vệ môi trường.",positive
+"Công ty CM xây dựng hệ thống thu gom nước mưa tại nhà máy.",positive
+"Tập đoàn CN nâng cấp quy trình sản xuất thân thiện với môi trường.",positive
+"Doanh nghiệp CO tăng ngân sách đào tạo phòng chống quấy rối.",positive
+"Công ty CP áp dụng các tiêu chuẩn quốc tế về an toàn lao động.",positive
+"Tập đoàn CQ phát triển sản phẩm thân thiện môi trường.",positive
+"Doanh nghiệp CR thúc đẩy hợp tác cộng đồng tại vùng dự án.",positive
+"Công ty CS công bố chính sách không sử dụng nhựa một lần.",positive
+"Doanh nghiệp CT hỗ trợ xây dựng trường học tại vùng sâu vùng xa.",positive
+"Công ty CU tăng tỷ lệ nhân viên khuyết tật trong lực lượng lao động.",positive
+"Tập đoàn CV đảm bảo quyền lợi bình đẳng cho tất cả nhân viên.",positive
+"Doanh nghiệp CW triển khai hệ thống kiểm soát phát thải tự động.",positive
+"Công ty CX thực hiện phân loại rác thải tại nguồn.",positive
+"Tập đoàn CY tài trợ dự án nghiên cứu năng lượng sạch.",positive
+"Doanh nghiệp CZ ký cam kết không xả thải ra môi trường.",positive
+"Công ty DA tổ chức lớp học nâng cao ý thức bảo vệ động vật hoang dã.",positive
+"Tập đoàn DB đạt giải thưởng quốc tế về trách nhiệm xã hội.",positive
+"Công ty DC cam kết giảm sử dụng hóa chất độc hại.",positive
+"Doanh nghiệp DD hỗ trợ nhân viên vượt qua đại dịch COVID-19.",positive
+"Công ty DE áp dụng hệ thống quản lý môi trường ISO 14001.",positive
+"Doanh nghiệp DF tăng cường phối hợp với chính quyền địa phương về an toàn công trình.",positive
+"Công ty DG phát động phong trào đi làm bằng phương tiện công cộng.",positive
+"Tập đoàn DH phát triển giải pháp tiết kiệm nước cho sản xuất.",positive
+"Doanh nghiệp DI tổ chức chương trình hiến máu nhân đạo định kỳ.",positive
+"Công ty DJ cung cấp dịch vụ chăm sóc sức khỏe miễn phí cho cộng đồng.",positive
+"Tập đoàn DK phát triển công nghệ giảm thiểu khí thải CO2.",positive
+"Công ty DL tham gia sáng kiến quốc tế về bảo vệ rừng.",positive
+"Doanh nghiệp DM hỗ trợ học phí cho con em công nhân.",positive
+"Công ty DN bị phát hiện xả nước thải chưa qua xử lý ra sông.",negative
+"Doanh nghiệp DO bị xử phạt do gây ô nhiễm không khí nghiêm trọng.",negative
+"Tập đoàn DP bị tố cáo bóc lột sức lao động trẻ em.",negative
+"Công ty DQ không đảm bảo quyền lợi cho nhân viên nghỉ thai sản.",negative
+"Doanh nghiệp DR vi phạm quy định về an toàn thực phẩm.",negative
+"Công ty DS bị chỉ trích vì không minh bạch trong báo cáo ESG.",negative
+"Tập đoàn DT bị đình chỉ hoạt động do không tuân thủ quy định môi trường.",negative
+"Doanh nghiệp DU gặp bê bối gian lận số liệu phát thải.",negative
+"Công ty DV bị phạt vì không công khai thông tin rủi ro xã hội.",negative
+"Doanh nghiệp DW thiếu chính sách bảo vệ người tố cáo nội bộ.",negative
+"Tập đoàn DX không có kế hoạch bảo vệ đa dạng sinh học.",negative
+"Công ty DY bị phản ánh về điều kiện làm việc nguy hiểm.",negative
+"Doanh nghiệp DZ không hỗ trợ tài chính cho cộng đồng bị ảnh hưởng bởi dự án.",negative
+"Công ty EA bị phát hiện sử dụng vật liệu độc hại trong sản xuất.",negative
+"Doanh nghiệp EB bị khách hàng khiếu nại về sản phẩm gây hại sức khỏe.",negative
+"Tập đoàn EC không thực hiện kiểm toán độc lập về môi trường.",negative
+"Công ty ED bị xử lý vì vi phạm quy định an toàn lao động.",negative
+"Doanh nghiệp EE trì hoãn công bố báo cáo tác động xã hội.",negative
+"Công ty EF bị kiện vì xâm phạm quyền lợi người tiêu dùng.",negative
+"Tập đoàn EG bị phạt vì không tuân thủ quy định phòng cháy chữa cháy.",negative
+"Doanh nghiệp EH không tham gia chương trình giảm rác thải nhựa.",negative
+"Công ty EI bị cáo buộc phân biệt đối xử trong tuyển dụng.",negative
+"Doanh nghiệp EJ bị xử phạt do không kiểm soát phát thải khí nhà kính.",negative
+"Công ty EK không công khai thông tin về sử dụng nguồn nước.",negative
+"Tập đoàn EL bị phát hiện gian lận trong chấm công.",negative
+"Doanh nghiệp EM không đảm bảo an toàn cho công nhân làm việc trên cao.",negative
+"Công ty EN bị xử lý vì không tuân thủ quy định bảo vệ dữ liệu cá nhân.",negative
+"Tập đoàn EO bị chỉ trích vì không hỗ trợ phát triển cộng đồng.",negative
+"Doanh nghiệp EP không có chương trình đào tạo về đạo đức kinh doanh.",negative
+"Công ty EQ trì hoãn kế hoạch giảm tiêu thụ điện năng.",negative
+"Doanh nghiệp ER bị phản ánh về việc sử dụng vật liệu không thân thiện môi trường.",negative
+"Công ty ES không có chính sách đảm bảo an ninh mạng.",negative
+"Tập đoàn ET bị xử phạt do xả thải vượt quy chuẩn.",negative
+"Doanh nghiệp EU không tuân thủ quy định về lương tối thiểu.",negative
+"Công ty EV bị phát hiện làm giả hồ sơ môi trường.",negative
+"Tập đoàn EW trì hoãn triển khai dự án năng lượng sạch.",negative
+"Công ty EX bị chỉ trích vì thiếu minh bạch trong quản trị.",negative
+"Doanh nghiệp EY không hỗ trợ nhân viên trong đại dịch.",negative
+"Công ty EZ bị tố cáo lạm dụng lao động thời vụ.",negative
+"Tập đoàn FA gặp sự cố tràn chất thải ra môi trường.",negative
+"Công ty FB không tham gia chương trình tiết kiệm nước quốc gia.",negative
+"Doanh nghiệp FC bị cảnh báo về mức phát thải bụi mịn vượt chuẩn.",negative
+"Công ty FD bị khiếu nại về điều kiện làm việc không an toàn.",negative
+"Tập đoàn FE không tuân thủ quy định về bảo vệ động vật hoang dã.",negative
+"Công ty FF bị điều tra vì gian lận báo cáo bền vững.",negative
+"Doanh nghiệp FG không có chính sách bảo vệ quyền lợi người tiêu dùng.",negative
+"Công ty FH bị xử phạt vì không báo cáo phát thải định kỳ.",negative
+"Tập đoàn FI không công khai quy trình thu gom chất thải.",negative
+"Doanh nghiệp FJ bị phản ánh về lãng phí tài nguyên.",negative
+"Công ty FK không có chương trình hỗ trợ tài chính cho người lao động.",negative
+"Tập đoàn FL bị xử lý do vi phạm quy định về tiếng ồn.",negative
+"Công ty FM chưa công bố mục tiêu giảm phát thải khí nhà kính.",neutral
+"Doanh nghiệp FN tổ chức hội nghị về quản trị doanh nghiệp.",neutral
+"Tập đoàn FO cập nhật danh sách đối tác trong báo cáo ESG.",neutral
+"Công ty FP khảo sát mức độ hài lòng của khách hàng.",neutral
+"Doanh nghiệp FQ công bố kế hoạch phát triển bền vững trung hạn.",neutral
+"Công ty FR tổ chức lớp đào tạo về an toàn thực phẩm.",neutral
+"Tập đoàn FS ghi nhận số liệu về tiêu thụ năng lượng trong báo cáo.",neutral
+"Doanh nghiệp FT thử nghiệm hệ thống xử lý khí thải mới.",neutral
+"Công ty FU báo cáo tình hình thực hiện mục tiêu ESG năm nay.",neutral
+"Tập đoàn FV tiến hành đánh giá tác động môi trường cho dự án mới.",neutral
+"Công ty FW công bố thay đổi cơ cấu ban lãnh đạo.",neutral
+"Doanh nghiệp FX tổ chức tọa đàm về phát triển cộng đồng.",neutral
+"Công ty FY cập nhật số liệu về lượng rác thải tái chế.",neutral
+"Tập đoàn FZ lập kế hoạch hỗ trợ giáo dục cho trẻ em nghèo.",neutral
+"Công ty GA báo cáo kết quả kiểm toán tài chính năm 2024.",neutral
+"Doanh nghiệp GB nghiên cứu áp dụng tiêu chuẩn quốc tế về môi trường.",neutral
+"Công ty GC triển khai khảo sát rủi ro tác động xã hội.",neutral
+"Tập đoàn GD tổ chức sự kiện truyền thông về tiết kiệm năng lượng.",neutral
+"Công ty GE ghi nhận ý kiến phản hồi của cổ đông về quản trị.",neutral
+"Doanh nghiệp GF thử nghiệm mô hình hợp tác công - tư về môi trường.",neutral
+"Công ty GG công bố chương trình đào tạo nhân sự mới.",neutral
+"Tập đoàn GH cập nhật thông tin về dự án năng lượng mặt trời.",neutral
+"Công ty GI tổ chức hội thảo trực tuyến về ESG.",neutral
+"Doanh nghiệp GJ phát hành báo cáo cập nhật về đa dạng giới.",neutral
+"Công ty GK đầu tư vào hệ thống năng lượng mặt trời trên mái nhà.",positive
+"Doanh nghiệp GL phát triển sản phẩm thân thiện với môi trường.",positive
+"Tập đoàn GM tổ chức chương trình chăm sóc sức khỏe định kỳ cho nhân viên.",positive
+"Công ty GN hợp tác với tổ chức phi lợi nhuận về bảo vệ thiên nhiên.",positive
+"Doanh nghiệp GO áp dụng chính sách không sử dụng nhựa dùng một lần.",positive
+"Công ty GP xây dựng khu liên hợp xử lý chất thải hiện đại.",positive
+"Tập đoàn GQ tăng ngân sách cho hoạt động phát triển cộng đồng.",positive
+"Doanh nghiệp GR đạt chứng nhận ISO về an toàn lao động.",positive
+"Công ty GS tôn vinh nhân viên có sáng kiến đổi mới vì môi trường.",positive
+"Tập đoàn GT tài trợ chương trình giáo dục cho trẻ em gái vùng sâu.",positive
+"Công ty GU cải tiến quy trình sản xuất để giảm tiêu hao nước.",positive
+"Doanh nghiệp GV công bố chính sách hỗ trợ phụ nữ mang thai.",positive
+"Tập đoàn GW phát động chiến dịch đi bộ bảo vệ sức khỏe.",positive
+"Công ty GX đạt giải thưởng quốc gia về phát triển bền vững.",positive
+"Doanh nghiệp GY tổ chức lớp học nâng cao nhận thức về biến đổi khí hậu.",positive
+"Công ty GZ hỗ trợ xây nhà cho người lao động có hoàn cảnh khó khăn.",positive
+"Tập đoàn HA hợp tác với trường đại học nghiên cứu công nghệ xanh.",positive
+"Doanh nghiệp HB cung cấp dịch vụ khám sức khỏe miễn phí cho cộng đồng.",positive
+"Công ty HC đầu tư phát triển hệ thống giao thông xanh.",positive
+"Tập đoàn HD triển khai chương trình thu gom pin đã qua sử dụng.",positive
+"Doanh nghiệp HE bị phát hiện xả thải vượt quy chuẩn ra môi trường.",negative
+"Công ty HF không đảm bảo quyền lợi cho nhân viên làm việc ngoài giờ.",negative
+"Tập đoàn HG bị xử phạt do không tuân thủ quy định về an toàn cháy nổ.",negative
+"Doanh nghiệp HH thiếu minh bạch trong báo cáo tác động xã hội.",negative
+"Công ty HI trì hoãn kế hoạch giảm phát thải khí nhà kính.",negative
+"Tập đoàn HJ bị khách hàng tố cáo sản phẩm gây ô nhiễm.",negative
+"Doanh nghiệp HK chưa công bố chỉ số đa dạng giới trong lãnh đạo.",negative
+"Công ty HL bị phản ánh về điều kiện làm việc không đạt chuẩn.",negative
+"Tập đoàn HM không có chương trình đào tạo về an toàn lao động.",negative
+"Doanh nghiệp HN bị phạt vì không xử lý chất thải nguy hại đúng quy định.",negative
+"Công ty HO không thực hiện cam kết giảm sử dụng nhựa.",negative
+"Tập đoàn HP bị phát hiện gian lận trong báo cáo ESG.",negative
+"Doanh nghiệp HQ không hỗ trợ tài chính khi nhân viên gặp khó khăn.",negative
+"Công ty HR không công bố thông tin về sử dụng nguồn nước.",negative
+"Tập đoàn HS bị đình chỉ dự án do vi phạm quy định môi trường.",negative
+"Doanh nghiệp HT không đảm bảo quyền lợi bảo hiểm cho nhân viên.",negative
+"Công ty HU bị tố cáo về phân biệt đối xử trong tuyển dụng.",negative
+"Tập đoàn HV chưa triển khai chương trình bảo vệ động vật hoang dã.",negative
+"Doanh nghiệp HW không công khai quy trình kiểm toán nội bộ.",negative
+"Công ty HX không tham gia các hoạt động phát triển cộng đồng.",negative
+"Tập đoàn HY bị xử lý vì không tuân thủ quy định về phát thải khí độc.",negative
+"Doanh nghiệp HZ tổ chức hội thảo về quản trị ESG.",neutral
+"Công ty IA công bố danh sách đối tác trong báo cáo bền vững.",neutral
+"Tập đoàn IB tổ chức ngày hội an toàn lao động cho nhân viên.",neutral
+"Công ty IC cập nhật số liệu về tiêu thụ điện năng.",neutral
+"Doanh nghiệp ID thực hiện khảo sát mức độ hài lòng của khách hàng.",neutral
+"Tập đoàn IE lập kế hoạch phát triển ESG cho 5 năm tới.",neutral
+"Công ty IF công bố kết quả kiểm toán nội bộ năm 2024.",neutral
+"Doanh nghiệp IG thử nghiệm mô hình làm việc linh hoạt.",neutral
+"Công ty IH báo cáo tiến độ thực hiện mục tiêu phát triển bền vững.",neutral
+"Tập đoàn II tổ chức lớp đào tạo về đạo đức kinh doanh.",neutral
+"Doanh nghiệp IJ cập nhật chính sách bảo vệ quyền lợi người tiêu dùng.",neutral
+"Công ty IK công bố thông tin về phát triển công nghệ xanh.",neutral
+"Công ty IL cung cấp học bổng cho sinh viên nghèo vượt khó.",positive
+"Doanh nghiệp IM đạt chứng nhận về tiết kiệm năng lượng quốc tế.",positive
+"Tập đoàn IN tổ chức chương trình nâng cao ý thức bảo vệ môi trường tại trường học.",positive
+"Công ty IO phát triển sản phẩm sử dụng nguyên liệu tái chế.",positive
+"Doanh nghiệp IP đầu tư hệ thống cảnh báo sớm thiên tai cho cộng đồng.",positive
+"Tập đoàn IQ hỗ trợ trang thiết bị y tế cho vùng khó khăn.",positive
+"Công ty IR tăng thời gian nghỉ phép cho nhân viên chăm sóc gia đình.",positive
+"Doanh nghiệp IS xây dựng khu vui chơi miễn phí cho trẻ em.",positive
+"Công ty IT phối hợp cùng địa phương tổ chức dọn rác bờ biển.",positive
+"Tập đoàn IU cam kết không sử dụng hóa chất độc hại trong sản xuất.",positive
+"Doanh nghiệp IV thực hiện khảo sát mức độ hài lòng của cư dân khu vực dự án.",positive
+"Công ty IW triển khai hệ thống tái sử dụng nước trong sản xuất.",positive
+"Tập đoàn IX mở rộng chương trình đào tạo kỹ năng số cho phụ nữ.",positive
+"Công ty IY hỗ trợ thiết bị học tập cho học sinh vùng sâu vùng xa.",positive
+"Doanh nghiệp IZ phát động phong trào đi làm bằng xe đạp.",positive
+"Công ty JA phát hành báo cáo chi tiết về quản trị rủi ro.",positive
+"Tập đoàn JB bổ nhiệm thêm lãnh đạo nữ vào ban điều hành.",positive
+"Doanh nghiệp JC công bố chính sách không phân biệt chủng tộc.",positive
+"Công ty JD hợp tác với tổ chức bảo vệ động vật hoang dã.",positive
+"Tập đoàn JE triển khai chương trình giảm tiêu thụ nhựa dùng một lần.",positive
+"Doanh nghiệp JF bị phát hiện không xử lý nước thải đúng quy định.",negative
+"Công ty JG bị chỉ trích vì không hỗ trợ nhân viên khi nghỉ thai sản.",negative
+"Tập đoàn JH không công khai thông tin về phát thải khí nhà kính.",negative
+"Doanh nghiệp JI bị phạt vì xả rác thải công nghiệp ra bên ngoài.",negative
+"Công ty JJ trì hoãn thực hiện cam kết bảo vệ môi trường.",negative
+"Tập đoàn JK không có chương trình đào tạo phòng chống quấy rối.",negative
+"Doanh nghiệp JL bị cáo buộc gian lận trong báo cáo tài chính.",negative
+"Công ty JM không hỗ trợ tài chính cho người lao động bị tai nạn.",negative
+"Tập đoàn JN thiếu minh bạch trong công bố thông tin ESG.",negative
+"Doanh nghiệp JO không đảm bảo an toàn cho công nhân làm ca đêm.",negative
+"Công ty JP bị phát hiện sử dụng vật liệu gây hại cho sức khỏe.",negative
+"Tập đoàn JQ không tuân thủ quy định về bảo vệ dữ liệu cá nhân.",negative
+"Doanh nghiệp JR bị xử phạt do xả thải vượt mức cho phép.",negative
+"Công ty JS bị phản ánh điều kiện làm việc không đảm bảo.",negative
+"Tập đoàn JT không tham gia các hoạt động xã hội tại địa phương.",negative
+"Doanh nghiệp JU bị tố cáo phân biệt đối xử với nhân viên nữ.",negative
+"Công ty JV không có chính sách bảo vệ quyền lợi khách hàng.",negative
+"Tập đoàn JW bị chỉ trích về việc thiếu hỗ trợ cộng đồng.",negative
+"Doanh nghiệp JX không công bố báo cáo phát triển bền vững.",negative
+"Công ty JY bị kiện vì lạm dụng lao động trẻ em.",negative
+"Tập đoàn JZ không thực hiện kiểm toán độc lập về môi trường.",negative
+"Doanh nghiệp KA bị cảnh báo về chất lượng không khí tại nhà máy.",negative
+"Công ty KB công bố báo cáo ESG năm 2025.",neutral
+"Tập đoàn KC tổ chức hội thảo về bình đẳng giới.",neutral
+"Doanh nghiệp KD cập nhật số liệu phát thải hàng quý.",neutral
+"Công ty KE lập kế hoạch phát triển bền vững cho 3 năm tới.",neutral
+"Tập đoàn KF thực hiện khảo sát về nhận thức môi trường của nhân viên.",neutral
+"Doanh nghiệp KG công bố thông tin về tỷ lệ sử dụng năng lượng tái tạo.",neutral
+"Công ty KH tổ chức chương trình thảo luận về quản trị doanh nghiệp.",neutral
+"Tập đoàn KI cập nhật kết quả giảm phát thải năm vừa qua.",neutral
+"Doanh nghiệp KJ phát hành tài liệu hướng dẫn về đạo đức kinh doanh.",neutral
+"Công ty KK tiến hành đánh giá rủi ro xã hội cho dự án mới.",neutral
+"Tập đoàn KL tổ chức lớp tập huấn về an toàn lao động.",neutral
+"Công ty KL phát triển hệ thống thu hồi nước mưa để sử dụng lại.",positive
+"Doanh nghiệp KM trao tặng hàng nghìn cây xanh cho trường học địa phương.",positive
+"Tập đoàn KN cải thiện chế độ nghỉ dưỡng cho toàn bộ nhân viên.",positive
+"Công ty KO đạt chứng nhận quốc tế về trách nhiệm xã hội.",positive
+"Doanh nghiệp KP hỗ trợ vốn vay cho doanh nghiệp nhỏ phát triển bền vững.",positive
+"Công ty KQ triển khai chương trình dạy nghề miễn phí cho người khuyết tật.",positive
+"Tập đoàn KR áp dụng công nghệ xử lý khí thải hiện đại.",positive
+"Doanh nghiệp KS tôn vinh các cá nhân tiêu biểu vì môi trường.",positive
+"Công ty KT xây dựng khu vui chơi cho trẻ em nghèo tại vùng sâu.",positive
+"Tập đoàn KU thúc đẩy bình đẳng giới trong quản lý cấp cao.",positive
+"Doanh nghiệp KV phát động chiến dịch tiết kiệm năng lượng toàn hệ thống.",positive
+"Công ty KW tổ chức hội chợ việc làm cho người lao động khó khăn.",positive
+"Doanh nghiệp KX tài trợ thiết bị y tế cho trạm xá vùng xa.",positive
+"Công ty KY đầu tư phát triển công nghệ xử lý chất thải rắn.",positive
+"Tập đoàn KZ khuyến khích nhân viên tham gia hoạt động cộng đồng.",positive
+"Công ty LA triển khai chính sách nghỉ phép linh hoạt cho nhân viên.",positive
+"Doanh nghiệp LB tăng cường công tác đào tạo an toàn lao động.",positive
+"Công ty LC thực hiện dự án bảo tồn rừng ngập mặn.",positive
+"Tập đoàn LD hợp tác với tổ chức quốc tế về phát triển bền vững.",positive
+"Doanh nghiệp LE đạt giải thưởng về đổi mới sáng tạo xanh.",positive
+"Công ty LF bị tố cáo không đảm bảo vệ sinh an toàn thực phẩm.",negative
+"Tập đoàn LG bị chỉ trích vì thiếu minh bạch trong sử dụng vốn ESG.",negative
+"Doanh nghiệp LH bị phạt do không tuân thủ quy định về tiếng ồn.",negative
+"Công ty LI không có chương trình phòng chống quấy rối nơi làm việc.",negative
+"Tập đoàn LJ bị phát hiện sử dụng vật liệu không thân thiện với môi trường.",negative
+"Doanh nghiệp LK không công khai báo cáo tác động xã hội.",negative
+"Công ty LL bị khách hàng phản ánh về dịch vụ chăm sóc sức khỏe kém.",negative
+"Tập đoàn LM không đảm bảo quyền lợi cho nhân viên hợp đồng.",negative
+"Doanh nghiệp LN trì hoãn đóng góp vào quỹ phát triển cộng đồng.",negative
+"Công ty LO không có chính sách bảo vệ dữ liệu khách hàng.",negative
+"Tập đoàn LP bị phạt do xả nước thải chưa qua xử lý.",negative
+"Doanh nghiệp LQ không thực hiện kiểm toán độc lập báo cáo ESG.",negative
+"Công ty LR bị phản ánh về chậm trễ hỗ trợ tài chính cho nhân viên.",negative
+"Tập đoàn LS không hỗ trợ đào tạo nghề cho người lao động.",negative
+"Doanh nghiệp LT bị xử lý do không tuân thủ quy định về bảo vệ động vật.",negative
+"Công ty LU không đảm bảo an toàn lao động cho công nhân.",negative
+"Tập đoàn LV chưa ban hành chính sách phát triển bền vững.",negative
+"Doanh nghiệp LW không có chương trình hỗ trợ cộng đồng vùng dự án.",negative
+"Công ty LX bị phát hiện gian lận trong báo cáo phát thải.",negative
+"Tập đoàn LY bị khiếu nại về phân biệt đối xử trong tuyển dụng.",negative
+"Doanh nghiệp LZ không hỗ trợ nhân viên trong mùa dịch.",negative
+"Công ty MA tổ chức hội nghị về phát triển bền vững.",neutral
+"Doanh nghiệp MB cập nhật thông tin về tác động môi trường trong báo cáo.",neutral
+"Tập đoàn MC tiến hành khảo sát ý kiến cổ đông về quản trị công ty.",neutral
+"Công ty MD công bố kế hoạch nâng cấp hệ thống xử lý nước thải.",neutral
+"Doanh nghiệp ME tổ chức lớp tập huấn về an toàn vệ sinh lao động.",neutral
+"Công ty MF phát hành báo cáo tài chính kèm chỉ số ESG.",neutral
+"Tập đoàn MG công bố số liệu về đa dạng giới tính trong doanh nghiệp.",neutral
+"Doanh nghiệp MH thử nghiệm công nghệ mới cho chuỗi cung ứng xanh.",neutral
+"Công ty MI thực hiện khảo sát mức độ hài lòng của người lao động.",neutral
+"Tập đoàn MJ lập kế hoạch đánh giá rủi ro môi trường định kỳ.",neutral
+"Doanh nghiệp MK tổ chức hội thảo về tiêu chuẩn quốc tế ESG.",neutral
+"Công ty MN tăng cường hợp tác quốc tế nhằm phát triển công nghệ sạch.",positive
+"Doanh nghiệp MO phát động chiến dịch trồng cây xanh tại khu công nghiệp.",positive
+"Tập đoàn MP xây dựng quỹ học bổng cho trẻ em có hoàn cảnh khó khăn.",positive
+"Công ty MQ triển khai chương trình giảm thiểu sử dụng túi nilon.",positive
+"Doanh nghiệp MR thực hiện kiểm toán độc lập về an toàn lao động.",positive
+"Công ty MS tổ chức lớp tập huấn về phòng chống quấy rối nơi làm việc.",positive
+"Tập đoàn MT tài trợ xe đạp cho học sinh nghèo vùng sâu.",positive
+"Công ty MU áp dụng công nghệ tiết kiệm nước trong sản xuất.",positive
+"Doanh nghiệp MV phát hành báo cáo minh bạch về sử dụng năng lượng tái tạo.",positive
+"Công ty MW hỗ trợ xây dựng nhà tình nghĩa cho người có công.",positive
+"Tập đoàn MX thúc đẩy sự tham gia của phụ nữ vào quản lý cấp cao.",positive
+"Doanh nghiệp MY tổ chức chương trình nâng cao ý thức phân loại rác.",positive
+"Công ty MZ cung cấp khẩu trang miễn phí cho cộng đồng trong mùa dịch.",positive
+"Tập đoàn NA đầu tư vào dự án bảo tồn động vật quý hiếm.",positive
+"Công ty NB phát động chiến dịch chống phân biệt đối xử tại nơi làm việc.",positive
+"Doanh nghiệp NC triển khai hệ thống kiểm soát chất lượng không khí.",positive
+"Công ty ND hợp tác với tổ chức phi lợi nhuận về giáo dục.",positive
+"Tập đoàn NE tăng quỹ phúc lợi cho nhân viên.",positive
+"Công ty NF phát triển sản phẩm thân thiện với sức khỏe người tiêu dùng.",positive
+"Doanh nghiệp NG đạt giải thưởng trách nhiệm cộng đồng.",positive
+"Công ty NH bị xử phạt vì không tuân thủ quy định về xử lý rác thải.",negative
+"Tập đoàn NI bị phát hiện gian lận trong kiểm toán môi trường.",negative
+"Doanh nghiệp NJ không có chương trình đào tạo về bình đẳng giới.",negative
+"Công ty NK bị chỉ trích vì sử dụng lao động thời vụ không hợp đồng.",negative
+"Doanh nghiệp NL không công khai số liệu phát thải khí nhà kính.",negative
+"Tập đoàn NM bị phản ánh về điều kiện làm việc không an toàn.",negative
+"Công ty NN bị phạt vì không thực hiện cam kết bảo vệ môi trường.",negative
+"Doanh nghiệp NO thiếu chính sách hỗ trợ người lao động mất việc.",negative
+"Công ty NP bị khách hàng kiện về sản phẩm kém an toàn.",negative
+"Tập đoàn NQ không đảm bảo quyền lợi cho người lao động nữ.",negative
+"Doanh nghiệp NR không công bố báo cáo tác động xã hội đúng hạn.",negative
+"Công ty NS bị phát hiện sử dụng vật liệu gây ô nhiễm.",negative
+"Tập đoàn NT không kiểm soát chất lượng nước thải trước khi xả ra môi trường.",negative
+"Doanh nghiệp NU bị phạt do vi phạm quy định về lương tối thiểu.",negative
+"Công ty NV không hỗ trợ tài chính cho cộng đồng bị ảnh hưởng bởi dự án.",negative
+"Tập đoàn NW không tham gia các hoạt động thiện nguyện tại địa phương.",negative
+"Doanh nghiệp NX bị tố cáo về lạm dụng lao động trẻ em.",negative
+"Công ty NY trì hoãn công bố báo cáo phát triển bền vững.",negative
+"Tập đoàn NZ không tổ chức chương trình đào tạo về quản trị rủi ro.",negative
+"Công ty OA công bố báo cáo bền vững năm 2025.",neutral
+"Doanh nghiệp OB tổ chức hội thảo chia sẻ kinh nghiệm về tiết kiệm năng lượng.",neutral
+"Công ty OC cập nhật số liệu về lượng rác thải tái chế hàng năm.",neutral
+"Tập đoàn OD thực hiện khảo sát ý kiến cổ đông về an toàn lao động.",neutral
+"Doanh nghiệp OE lập kế hoạch phát triển ESG trong 3 năm tới.",neutral
+"Công ty OF phát hành tài liệu hướng dẫn về tiêu chuẩn môi trường.",neutral
+"Tập đoàn OG công bố kết quả đánh giá tác động xã hội.",neutral
+"Doanh nghiệp OH tổ chức lớp tập huấn về đạo đức kinh doanh.",neutral
+"Công ty OI cập nhật thông tin về tỷ lệ sử dụng năng lượng tái tạo.",neutral
+"Tập đoàn OJ tiến hành đánh giá rủi ro môi trường cho dự án mới.",neutral
+"Doanh nghiệp OK công bố chính sách về quản trị công ty.",neutral
+"Công ty OL ghi nhận số liệu tiêu thụ nước trong báo cáo ESG.",neutral
+"Công ty OM triển khai hệ thống chiếu sáng thông minh tiết kiệm điện.",positive
+"Doanh nghiệp ON hợp tác với các trường đại học về phát triển công nghệ xanh.",positive
+"Tập đoàn OO xây dựng chương trình đào tạo kỹ năng mềm cho nhân viên.",positive
+"Công ty OP phát động ngày hội hiến máu nhân đạo.",positive
+"Doanh nghiệp OQ đạt chứng nhận quốc tế về bảo vệ dữ liệu khách hàng.",positive
+"Công ty OR cung cấp dịch vụ chăm sóc sức khỏe định kỳ cho người lao động.",positive
+"Tập đoàn OS đầu tư vào dự án phát triển năng lượng gió.",positive
+"Doanh nghiệp OT tổ chức lớp học miễn phí cho trẻ em vùng sâu vùng xa.",positive
+"Công ty OU xây dựng hệ thống xử lý rác thải hữu cơ.",positive
+"Tập đoàn OV hỗ trợ tài chính cho gia đình chịu ảnh hưởng bởi thiên tai.",positive
+"Doanh nghiệp OW tăng cường kiểm tra an toàn thực phẩm tại nhà máy.",positive
+"Công ty OX phát triển ứng dụng theo dõi lượng khí thải.",positive
+"Tập đoàn OY tổ chức sự kiện nâng cao ý thức bảo vệ môi trường.",positive
+"Doanh nghiệp OZ công bố chính sách khuyến khích làm việc từ xa.",positive
+"Công ty PA tài trợ cho nghiên cứu phát triển vật liệu thân thiện môi trường.",positive
+"Tập đoàn PB thúc đẩy đa dạng hóa trong đội ngũ lãnh đạo.",positive
+"Doanh nghiệp PC mở rộng chương trình hỗ trợ tâm lý cho nhân viên.",positive
+"Công ty PD đầu tư cải tiến hệ thống lọc nước sạch.",positive
+"Tập đoàn PE cung cấp học bổng cho sinh viên ngành môi trường.",positive
+"Doanh nghiệp PF tăng ngân sách cho hoạt động thiện nguyện.",positive
+"Công ty PG bị phát hiện không tuân thủ quy định về xử lý rác thải.",negative
+"Tập đoàn PH bị chỉ trích vì thiếu minh bạch trong công bố số liệu ESG.",negative
+"Doanh nghiệp PI không đảm bảo quyền lợi cho nhân viên làm thêm giờ.",negative
+"Công ty PJ trì hoãn thực hiện chương trình giảm phát thải.",negative
+"Tập đoàn PK không có chính sách hỗ trợ người lao động lớn tuổi.",negative
+"Doanh nghiệp PL bị phạt vì xả nước thải gây ô nhiễm sông.",negative
+"Công ty PM không kiểm soát được lượng khí thải từ nhà máy.",negative
+"Tập đoàn PN bị khách hàng khiếu nại về sản phẩm không an toàn.",negative
+"Doanh nghiệp PO thiếu chính sách đào tạo nhân viên về an toàn lao động.",negative
+"Công ty PP bị tố cáo phân biệt đối xử với nhân viên khuyết tật.",negative
+"Tập đoàn PQ không thực hiện kiểm toán nội bộ định kỳ.",negative
+"Doanh nghiệp PR bị phát hiện gian lận trong báo cáo tài chính ESG.",negative
+"Công ty PS không công khai thông tin về sử dụng tài nguyên.",negative
+"Tập đoàn PT bị xử phạt do vi phạm quy định bảo vệ động vật.",negative
+"Doanh nghiệp PU không hỗ trợ cộng đồng bị ảnh hưởng bởi dự án khai thác.",negative
+"Công ty PV bị phạt vì không thực hiện cam kết giảm phát thải khí nhà kính.",negative
+"Tập đoàn PW trì hoãn công bố báo cáo phát triển bền vững.",negative
+"Doanh nghiệp PX không có chương trình hỗ trợ học sinh nghèo.",negative
+"Công ty PY bị xử lý do không đảm bảo an toàn thực phẩm.",negative
+"Tập đoàn PZ không minh bạch về nguồn gốc nguyên liệu sản xuất.",negative
+"Doanh nghiệp QA bị tố cáo thiếu trách nhiệm xã hội.",negative
+"Công ty QB không có kế hoạch bảo vệ đa dạng sinh học.",negative
+"Tập đoàn QC công bố báo cáo tài chính quý II năm 2025.",neutral
+"Doanh nghiệp QD tổ chức hội thảo về phát triển năng lượng sạch.",neutral
+"Công ty QE cập nhật số liệu tiêu thụ nước trong báo cáo thường niên.",neutral
+"Tập đoàn QF thực hiện khảo sát ý kiến người dân về môi trường.",neutral
+"Doanh nghiệp QG lập kế hoạch phát triển ESG giai đoạn 2025-2030.",neutral
+"Công ty QH tổ chức buổi đào tạo về an toàn lao động cho nhân viên mới.",neutral
+"Tập đoàn QI công bố chính sách bảo mật thông tin khách hàng.",neutral
+"Doanh nghiệp QJ cập nhật kết quả giảm phát thải trong năm qua.",neutral
+"Công ty QK phát hành tài liệu hướng dẫn về sử dụng năng lượng hiệu quả.",neutral
+"Tập đoàn QL tổ chức lớp tập huấn về phòng cháy chữa cháy.",neutral
+"Công ty QM áp dụng công nghệ tái chế chất thải trong sản xuất.",positive
+"Doanh nghiệp QN tổ chức chương trình trao tặng xe đạp cho học sinh nghèo.",positive
+"Tập đoàn QO đầu tư hệ thống điện năng lượng mặt trời cho nhà máy.",positive
+"Công ty QP triển khai lớp tập huấn về an toàn hóa chất cho nhân viên.",positive
+"Doanh nghiệp QQ đạt giải thưởng quốc tế về đổi mới sáng tạo xanh.",positive
+"Công ty QR khuyến khích nhân viên tham gia các hoạt động thiện nguyện.",positive
+"Tập đoàn QS phát động cuộc thi sáng kiến bảo vệ môi trường.",positive
+"Doanh nghiệp QT tài trợ xây dựng thư viện cộng đồng vùng sâu.",positive
+"Công ty QU phát triển phần mềm quản lý tiêu thụ năng lượng.",positive
+"Tập đoàn QV tổ chức khám sức khỏe miễn phí cho người dân địa phương.",positive
+"Doanh nghiệp QW hợp tác với tổ chức quốc tế về giáo dục bền vững.",positive
+"Công ty QX xây dựng chính sách an toàn giao thông cho nhân viên.",positive
+"Tập đoàn QY cung cấp nước sạch cho vùng hạn hán.",positive
+"Doanh nghiệp QZ triển khai dự án bảo tồn đa dạng sinh học.",positive
+"Công ty RA phát triển chương trình hỗ trợ tài chính cho phụ nữ.",positive
+"Tập đoàn RB tăng cường đào tạo nâng cao kỹ năng cho người lao động.",positive
+"Doanh nghiệp RC đầu tư vào công nghệ lọc không khí.",positive
+"Công ty RD thực hiện kiểm toán định kỳ về môi trường.",positive
+"Tập đoàn RE cung cấp suất ăn dinh dưỡng cho trẻ em nghèo.",positive
+"Doanh nghiệp RF tổ chức hội thảo nâng cao nhận thức về bình đẳng giới.",positive
+"Công ty RG tài trợ học phí cho sinh viên ngành môi trường.",positive
+"Tập đoàn RH phát động chiến dịch giảm rác thải nhựa tại văn phòng.",positive
+"Doanh nghiệp RI hỗ trợ xây dựng cầu đường cho cộng đồng vùng sâu.",positive
+"Công ty RJ triển khai hệ thống tưới tiêu tự động tiết kiệm nước.",positive
+"Tập đoàn RK cải tiến quy trình sản xuất giảm khí thải CO2.",positive
+"Doanh nghiệp RL phát hành báo cáo minh bạch về tác động xã hội.",positive
+"Công ty RM tổ chức chương trình bảo vệ quyền trẻ em.",positive
+"Tập đoàn RN cam kết sử dụng 100% nguyên liệu tái chế.",positive
+"Doanh nghiệp RO cung cấp dịch vụ y tế miễn phí cho nhân viên.",positive
+"Công ty RP thực hiện chương trình hỗ trợ việc làm cho người thất nghiệp.",positive
+"Tập đoàn RQ đạt chứng nhận về quản lý chất lượng môi trường.",positive
+"Doanh nghiệp RR tổ chức lớp học về kỹ năng sống cho trẻ em.",positive
+"Công ty RS phát triển sản phẩm không chứa hóa chất độc hại.",positive
+"Tập đoàn RT tăng tỷ lệ nữ trong ban lãnh đạo.",positive
+"Doanh nghiệp RU tham gia liên minh quốc tế về bền vững.",positive
+"Công ty RV xây dựng khu luyện tập thể thao miễn phí cho cộng đồng.",positive
+"Tập đoàn RW khuyến khích sử dụng các phương tiện giao thông xanh.",positive
+"Doanh nghiệp RX hợp tác với chính quyền địa phương về bảo vệ môi trường.",positive
+"Công ty RY phát động chiến dịch bảo vệ động vật hoang dã.",positive
+"Tập đoàn RZ cung cấp thực phẩm sạch cho trường học.",positive
+"Doanh nghiệp SA bị phạt do không xử lý nước thải đạt chuẩn.",negative
+"Công ty SB bị phát hiện sử dụng lao động chưa đủ tuổi.",negative
+"Tập đoàn SC trì hoãn công bố báo cáo tài chính ESG.",negative
+"Doanh nghiệp SD không đảm bảo điều kiện làm việc an toàn.",negative
+"Công ty SE thiếu minh bạch trong báo cáo về tiêu thụ nước.",negative
+"Tập đoàn SF bị chỉ trích vì không hỗ trợ cộng đồng bị ảnh hưởng bởi dự án.",negative
+"Doanh nghiệp SG không có chương trình đào tạo về an toàn lao động.",negative
+"Công ty SH bị phản ánh về lương thấp cho nhân viên thời vụ.",negative
+"Tập đoàn SI không công khai số liệu phát thải định kỳ.",negative
+"Doanh nghiệp SJ bị khách hàng kiện vì sản phẩm gây hại sức khỏe.",negative
+"Công ty SK thiếu chính sách bảo vệ người lao động nữ.",negative
+"Tập đoàn SL không hỗ trợ các hoạt động thiện nguyện tại địa phương.",negative
+"Doanh nghiệp SM bị phát hiện gian lận trong báo cáo bền vững.",negative
+"Công ty SN không có kế hoạch giảm sử dụng nhựa dùng một lần.",negative
+"Tập đoàn SO bị phạt do gây ô nhiễm tiếng ồn.",negative
+"Doanh nghiệp SP không đảm bảo quyền lợi bảo hiểm cho nhân viên.",negative
+"Công ty SQ không công bố thông tin về rủi ro tài chính.",negative
+"Tập đoàn SR bị đình chỉ dự án do vi phạm quy định an toàn lao động.",negative
+"Doanh nghiệp SS bị cáo buộc phân biệt đối xử trong tuyển dụng.",negative
+"Công ty ST không thực hiện cam kết giảm phát thải khí nhà kính.",negative
+"Tập đoàn SU trì hoãn triển khai chương trình giảm rác thải nhựa.",negative
+"Doanh nghiệp SV không có chính sách bảo vệ dữ liệu cá nhân.",negative
+"Công ty SW bị xử phạt vì không kiểm soát chất lượng nước thải.",negative
+"Tập đoàn SX không hỗ trợ tài chính cho người lao động bị tai nạn.",negative
+"Doanh nghiệp SY bị phản ánh về điều kiện làm việc không an toàn.",negative
+"Công ty SZ không công khai báo cáo tác động xã hội.",negative
+"Tập đoàn TA bị tố cáo về gian lận trong kiểm toán nội bộ.",negative
+"Doanh nghiệp TB không đảm bảo vệ sinh an toàn thực phẩm.",negative
+"Công ty TC không hỗ trợ cộng đồng phát triển giáo dục.",negative
+"Tập đoàn TD bị phát hiện sử dụng vật liệu không thân thiện môi trường.",negative
+"Doanh nghiệp TE bị phạt vì không tuân thủ quy định về lương tối thiểu.",negative
+"Công ty TF bị chỉ trích vì thiếu chính sách bảo vệ quyền lợi khách hàng.",negative
+"Tập đoàn TG không công bố số liệu về đa dạng giới trong doanh nghiệp.",negative
+"Doanh nghiệp TH không thực hiện kiểm tra an toàn định kỳ.",negative
+"Công ty TI bị phát hiện lãng phí tài nguyên nước.",negative
+"Tập đoàn TJ không kiểm toán độc lập về môi trường.",negative
+"Doanh nghiệp TK không đảm bảo quyền lợi cho nhân viên hợp đồng.",negative
+"Công ty TL bị khách hàng khiếu nại về sản phẩm kém an toàn.",negative
+"Tập đoàn TM trì hoãn công bố báo cáo phát triển bền vững.",negative
+"Doanh nghiệp TN không có chương trình hỗ trợ học sinh nghèo.",negative
+"Công ty TO bị xử phạt vì vi phạm quy định bảo vệ động vật.",negative
+"Tập đoàn TP không hỗ trợ tài chính khi nhân viên gặp khó khăn.",negative
+"Doanh nghiệp TQ không công bố chính sách bảo vệ môi trường.",negative
+"Công ty TR cập nhật thông tin về tiêu thụ điện năng trong báo cáo.",neutral
+"Tập đoàn TS tổ chức hội thảo về phát triển sản phẩm xanh.",neutral
+"Doanh nghiệp TT công bố chỉ số phát thải nhà kính năm 2025.",neutral
+"Công ty TU thực hiện khảo sát ý kiến nhân viên về môi trường làm việc.",neutral
+"Tập đoàn TV lập kế hoạch phát triển năng lượng tái tạo.",neutral
+"Doanh nghiệp TW cập nhật số liệu về lượng rác thải tái chế.",neutral
+"Công ty TX tổ chức lớp đào tạo về phòng chống cháy nổ.",neutral
+"Tập đoàn TY công bố báo cáo tài chính kèm chỉ số ESG.",neutral
+"Doanh nghiệp TZ phát hành tài liệu hướng dẫn về tiết kiệm nước.",neutral
+"Công ty UA tổ chức tọa đàm về phát triển bền vững.",neutral
+"Tập đoàn UB thực hiện đánh giá rủi ro xã hội cho dự án mới.",neutral
+"Doanh nghiệp UC cập nhật thông tin về sử dụng năng lượng xanh.",neutral
+"Công ty UD công bố báo cáo tác động môi trường năm nay.",neutral
+"Tập đoàn UE tổ chức hội thảo về tiêu chuẩn ESG quốc tế.",neutral
+"Doanh nghiệp UF thực hiện khảo sát mức độ hài lòng của khách hàng.",neutral
+"Công ty UG công bố kế hoạch hỗ trợ cộng đồng vùng sâu.",neutral
+"Tập đoàn UH cập nhật số liệu sử dụng nước trong sản xuất.",neutral
+"Doanh nghiệp UI tổ chức lớp tập huấn về đạo đức nghề nghiệp.",neutral
+"Công ty UJ phát hành báo cáo về trách nhiệm xã hội.",neutral
+"Tập đoàn UK công bố chính sách phát triển đội ngũ lãnh đạo nữ.",neutral
+"Doanh nghiệp UL tổ chức sự kiện nâng cao ý thức bảo vệ tài nguyên.",neutral
+"Công ty UM ghi nhận số liệu phát thải trong báo cáo thường niên.",neutral
+"Tập đoàn UN cập nhật kết quả giảm chất thải nhựa.",neutral
+"Công ty UO phát triển ứng dụng theo dõi lượng nước tiêu thụ cho khách hàng.",positive
+"Doanh nghiệp UP khởi động chiến dịch bảo vệ rừng đầu nguồn.",positive
+"Tập đoàn UQ đầu tư xây dựng nhà máy xử lý nước thải đạt chuẩn quốc tế.",positive
+"Công ty UR triển khai chương trình giảm thiểu chất thải nhựa trong văn phòng.",positive
+"Doanh nghiệp US tổ chức lớp học an toàn giao thông cho học sinh.",positive
+"Công ty UT cung cấp suất ăn dinh dưỡng miễn phí cho công nhân.",positive
+"Tập đoàn UU phát động phong trào tiết kiệm năng lượng tại nơi làm việc.",positive
+"Doanh nghiệp UV tăng tỷ lệ sử dụng vật liệu tái chế trong sản xuất.",positive
+"Công ty UW xây dựng khu sinh hoạt cộng đồng cho người dân địa phương.",positive
+"Tập đoàn UX hợp tác phát triển hệ thống tưới nhỏ giọt tiết kiệm nước.",positive
+"Doanh nghiệp UY hỗ trợ thiết bị y tế cho vùng sâu vùng xa.",positive
+"Công ty UZ tài trợ học bổng cho học sinh xuất sắc vùng khó khăn.",positive
+"Tập đoàn VA tổ chức chương trình trồng rừng ven biển chống xói mòn.",positive
+"Công ty VB phát động chiến dịch thu gom rác thải điện tử.",positive
+"Doanh nghiệp VC thực hiện kiểm toán định kỳ về quản trị rủi ro.",positive
+"Công ty VD tăng cường hoạt động truyền thông về bảo vệ môi trường.",positive
+"Tập đoàn VE tổ chức lớp đào tạo về bình đẳng giới cho nhân viên.",positive
+"Doanh nghiệp VF đầu tư hệ thống xử lý khí thải hiện đại.",positive
+"Công ty VG cung cấp gói bảo hiểm sức khỏe cho toàn bộ nhân viên.",positive
+"Tập đoàn VH phát triển sản phẩm công nghệ xanh tiết kiệm năng lượng.",positive
+"Doanh nghiệp VI bị phát hiện không kiểm soát lượng nước thải ra môi trường.",negative
+"Công ty VJ bị xử phạt vì vi phạm quy định về bảo vệ sức khỏe người lao động.",negative
+"Tập đoàn VK không hỗ trợ tài chính cho cộng đồng bị ảnh hưởng bởi dự án.",negative
+"Doanh nghiệp VL bị phản ánh về việc sử dụng hóa chất độc hại.",negative
+"Công ty VM thiếu minh bạch trong công bố số liệu phát thải.",negative
+"Tập đoàn VN bị khách hàng kiện do sản phẩm gây tác hại môi trường.",negative
+"Doanh nghiệp VO không công khai báo cáo trách nhiệm xã hội.",negative
+"Công ty VP trì hoãn thực hiện chương trình giảm khí thải CO2.",negative
+"Tập đoàn VQ không có chính sách bảo vệ dữ liệu cá nhân khách hàng.",negative
+"Doanh nghiệp VR bị phạt vì không đảm bảo an toàn thực phẩm.",negative
+"Công ty VS không hỗ trợ nhân viên gặp khó khăn trong đại dịch.",negative
+"Tập đoàn VT bị chỉ trích vì không thực hiện kiểm toán nội bộ.",negative
+"Doanh nghiệp VU bị phát hiện gian lận trong báo cáo phát triển bền vững.",negative
+"Công ty VV không tham gia các hoạt động phát triển cộng đồng.",negative
+"Tập đoàn VW bị phạt do không tuân thủ quy định phòng cháy chữa cháy.",negative
+"Doanh nghiệp VX không đảm bảo quyền lợi bảo hiểm cho người lao động.",negative
+"Công ty VY bị phản ánh về phân biệt giới tính trong tuyển dụng.",negative
+"Tập đoàn VZ không tổ chức chương trình đào tạo về an toàn lao động.",negative
+"Doanh nghiệp WA bị tố cáo sử dụng lao động trẻ em trái phép.",negative
+"Công ty WB bị xử lý vì gây ô nhiễm nguồn nước.",negative
+"Tập đoàn WC trì hoãn công bố báo cáo ESG năm nay.",negative
+"Doanh nghiệp WD không có chính sách hỗ trợ phụ nữ mang thai.",negative
+"Công ty WE cập nhật số liệu sử dụng năng lượng tái tạo trong báo cáo.",neutral
+"Tập đoàn WF tổ chức hội thảo về quản trị doanh nghiệp bền vững.",neutral
+"Doanh nghiệp WG lập kế hoạch phát triển sản phẩm sinh học.",neutral
+"Công ty WH công bố kết quả kiểm toán tài chính năm 2025.",neutral
+"Tập đoàn WI thực hiện khảo sát mức độ hài lòng của người lao động.",neutral
+"Doanh nghiệp WJ phát hành tài liệu hướng dẫn sử dụng nước tiết kiệm.",neutral
+"Công ty WK ghi nhận số liệu tiêu thụ điện năng trong báo cáo thường niên.",neutral
+"Tập đoàn WL công bố chính sách phát triển nguồn nhân lực.",neutral
+"Doanh nghiệp WM tổ chức lớp tập huấn về an toàn vệ sinh thực phẩm.",neutral
+"Công ty WN cập nhật thông tin về hoạt động thiện nguyện trong năm.",neutral
+"Tập đoàn WO lập kế hoạch giảm phát thải khí nhà kính đến năm 2030.",neutral
+"Doanh nghiệp WP tổ chức hội thảo chia sẻ kinh nghiệm phát triển xanh.",neutral
+"Công ty WQ công bố danh sách đối tác bền vững.",neutral
+"Tập đoàn WR thực hiện đánh giá rủi ro môi trường cho dự án mới.",neutral
+"Doanh nghiệp WS phát hành báo cáo cập nhật về đa dạng giới.",neutral
+"Công ty WT tổ chức tọa đàm về phát triển năng lượng sạch.",neutral
+"Tập đoàn WU ghi nhận ý kiến phản hồi của cổ đông về ESG.",neutral
+"Doanh nghiệp WV công bố chỉ số phát thải nhà kính năm nay.",neutral
+"Công ty WW cập nhật số liệu về tái chế rác thải.",neutral
+"Tập đoàn WX tổ chức chương trình truyền thông về tiết kiệm nước.",neutral
+"Doanh nghiệp WY lập kế hoạch phát triển ESG cho ba năm tới.",neutral
+"Công ty WZ công bố báo cáo tác động xã hội năm 2025.",neutral
+"Tập đoàn XA tổ chức lớp đào tạo về quản trị rủi ro.",neutral
+"Doanh nghiệp XB cập nhật chính sách về bảo vệ động vật hoang dã.",neutral
+"Công ty XC phát hành báo cáo tài chính quý III năm 2025.",neutral
+"Tập đoàn XD tổ chức hội thảo về tiêu chuẩn ESG quốc tế.",neutral
+"Doanh nghiệp XE công bố chỉ số phát triển bền vững.",neutral
+"Công ty XF lập kế hoạch hỗ trợ cộng đồng vùng dự án.",neutral
+"Tập đoàn XG tổ chức lớp tập huấn về an toàn lao động.",neutral
+"Doanh nghiệp XH cập nhật thông tin về tiêu thụ nước trong sản xuất.",neutral
+"Công ty XI công bố chính sách bảo mật thông tin khách hàng.",neutral
+"Tập đoàn XJ tổ chức sự kiện nâng cao ý thức bảo vệ môi trường.",neutral
+"Doanh nghiệp XK phát hành tài liệu hướng dẫn về đạo đức kinh doanh.",neutral
+"Công ty XL thực hiện khảo sát về nhận thức môi trường của nhân viên.",neutral
+"Tập đoàn XM công bố kế hoạch phát triển năng lượng tái tạo.",neutral
+"Doanh nghiệp XN cập nhật số liệu về lượng rác thải tái chế.",neutral
+"Công ty XO tổ chức tọa đàm về phát triển bền vững.",neutral
+"Tập đoàn XP phát hành báo cáo về trách nhiệm xã hội.",neutral
+"Doanh nghiệp XQ công bố chính sách phát triển đội ngũ lãnh đạo nữ.",neutral
+"Công ty XR tổ chức lớp tập huấn về phòng cháy chữa cháy.",neutral
+"Tập đoàn XS ghi nhận số liệu phát thải trong báo cáo thường niên.",neutral
+"Doanh nghiệp XT tổ chức sự kiện nâng cao ý thức bảo vệ tài nguyên.",neutral
+"Công ty XU cập nhật kết quả giảm chất thải nhựa.",neutral
+"Tập đoàn XV thực hiện khảo sát mức độ hài lòng của khách hàng.",neutral
+"Doanh nghiệp XW công bố kế hoạch hỗ trợ cộng đồng vùng sâu.",neutral
+"Công ty XX tổ chức hội thảo về tiêu chuẩn quốc tế ESG.",neutral
+"Tập đoàn XY lập kế hoạch đánh giá rủi ro môi trường định kỳ.",neutral
+"Doanh nghiệp XZ cập nhật thông tin về sử dụng năng lượng xanh.",neutral
+"Công ty YA công bố báo cáo tác động môi trường năm nay.",neutral
+"Tập đoàn YB tổ chức hội thảo về phát triển sản phẩm xanh.",neutral
+"Doanh nghiệp YC phát hành tài liệu hướng dẫn về tiết kiệm nước.",neutral
+"Công ty YD tổ chức lớp đào tạo về phòng chống cháy nổ.",neutral
+"Tập đoàn YE công bố báo cáo tài chính kèm chỉ số ESG.",neutral
+"Doanh nghiệp YF lập kế hoạch phát triển năng lượng tái tạo.",neutral
+"Công ty YG cập nhật số liệu về lượng rác thải tái chế.",neutral
+"Tập đoàn YH tổ chức sự kiện truyền thông về tiết kiệm nước.",neutral
+"Doanh nghiệp YI cập nhật chính sách bảo vệ quyền lợi người tiêu dùng.",neutral
+"Công ty YJ đầu tư phát triển hệ thống năng lượng gió trong khu công nghiệp.",positive
+"Doanh nghiệp YK tổ chức lớp học về tiết kiệm năng lượng cho học sinh.",positive
+"Tập đoàn YL tài trợ xây cầu cho cộng đồng dân tộc thiểu số.",positive
+"Công ty YM triển khai chương trình chăm sóc sức khỏe tâm thần cho nhân viên.",positive
+"Doanh nghiệp YN phát động phong trào giảm thiểu rác thải nhựa tại văn phòng.",positive
+"Công ty YO xây dựng vườn rau sạch cho khu dân cư.",positive
+"Tập đoàn YP hợp tác với tổ chức quốc tế về bảo tồn động vật quý hiếm.",positive
+"Doanh nghiệp YQ cung cấp suất ăn miễn phí cho học sinh nghèo.",positive
+"Công ty YR áp dụng công nghệ tiết kiệm nước trong sản xuất nông nghiệp.",positive
+"Tập đoàn YS phát triển ứng dụng quản lý phát thải khí nhà kính.",positive
+"Doanh nghiệp YT hỗ trợ tài chính cho phụ nữ khởi nghiệp.",positive
+"Công ty YU khuyến khích nhân viên tham gia hiến máu nhân đạo.",positive
+"Tập đoàn YV tổ chức hội chợ việc làm cho người khuyết tật.",positive
+"Doanh nghiệp YW đạt chứng nhận ISO về bảo vệ môi trường.",positive
+"Công ty YX tài trợ vật tư y tế cho tuyến đầu chống dịch.",positive
+"Tập đoàn YY phát triển nhà ở giá rẻ cho người lao động.",positive
+"Doanh nghiệp YZ tổ chức tọa đàm về quyền trẻ em.",positive
+"Công ty ZA thực hiện chương trình chống bạo lực học đường.",positive
+"Tập đoàn ZB hợp tác phát triển dự án điện sinh khối.",positive
+"Doanh nghiệp ZC đầu tư hệ thống lọc nước sạch cho vùng hạn hán.",positive
+"Công ty ZD tăng cường đào tạo kỹ năng số cho lao động trẻ.",positive
+"Tập đoàn ZE tổ chức chiến dịch bảo vệ nguồn nước sạch.",positive
+"Doanh nghiệp ZF cung cấp dịch vụ tư vấn pháp lý miễn phí cho người yếu thế.",positive
+"Công ty ZG phát động chương trình đi bộ gây quỹ cho bệnh nhi.",positive
+"Tập đoàn ZH đầu tư vào hệ thống xe buýt điện công cộng.",positive
+"Doanh nghiệp ZI mở lớp học tiếng Anh miễn phí cho trẻ em nghèo.",positive
+"Công ty ZJ áp dụng mô hình kinh tế tuần hoàn trong sản xuất.",positive
+"Tập đoàn ZK đạt giải thưởng quốc tế về phát triển bền vững.",positive
+"Doanh nghiệp ZL cam kết không sử dụng nguyên liệu từ rừng tự nhiên.",positive
+"Công ty ZM hợp tác với nông dân phát triển nông nghiệp hữu cơ.",positive
+"Tập đoàn ZN tặng sách giáo khoa cho học sinh vùng lũ.",positive
+"Doanh nghiệp ZO phát triển sản phẩm không thử nghiệm trên động vật.",positive
+"Công ty ZP tổ chức lớp học kỹ năng phòng cháy chữa cháy cho nhân viên.",positive
+"Tập đoàn ZQ nâng cao chính sách bảo vệ quyền lợi khách hàng.",positive
+"Doanh nghiệp ZR phát động chiến dịch chống quấy rối nơi làm việc.",positive
+"Công ty ZS hỗ trợ xây nhà cho người dân vùng lũ lụt.",positive
+"Tập đoàn ZT phát triển chương trình đào tạo lãnh đạo trẻ.",positive
+"Doanh nghiệp ZU đầu tư hệ thống thu gom rác thải nhựa tại bãi biển.",positive
+"Công ty ZV tổ chức lớp học kỹ năng mềm cho sinh viên.",positive
+"Tập đoàn ZW hỗ trợ phát triển hợp tác xã nông nghiệp bền vững.",positive
+"Doanh nghiệp ZX xây dựng nhà vệ sinh đạt chuẩn cho trường học vùng sâu.",positive
+"Công ty ZY bị phát hiện gian lận trong báo cáo phát thải khí nhà kính.",negative
+"Tập đoàn ZZ bị phạt vì xả thải gây ô nhiễm nguồn nước ngầm.",negative
+"Doanh nghiệp AAA không đảm bảo quyền lợi cho nhân viên thời vụ.",negative
+"Công ty AAB bị tố cáo sử dụng lao động cưỡng bức.",negative
+"Tập đoàn AAC thiếu minh bạch trong báo cáo sử dụng vốn ESG.",negative
+"Doanh nghiệp AAD không thực hiện kiểm toán an toàn lao động.",negative
+"Công ty AAE bị khách hàng phản ánh về sản phẩm gây hại sức khỏe.",negative
+"Tập đoàn AAF không hỗ trợ cộng đồng bị ảnh hưởng bởi dự án công nghiệp.",negative
+"Doanh nghiệp AAG trì hoãn công bố báo cáo trách nhiệm xã hội.",negative
+"Công ty AAH không có chính sách bảo vệ thông tin khách hàng.",negative
+"Tập đoàn AAI bị phạt vì không tuân thủ quy định về xử lý chất thải nguy hại.",negative
+"Doanh nghiệp AAJ không thực hiện cam kết giảm phát thải CO2.",negative
+"Công ty AAK bị phát hiện gian lận trong quy trình kiểm toán nội bộ.",negative
+"Tập đoàn AAL không công khai số liệu về đa dạng giới.",negative
+"Doanh nghiệp AAM bị xử lý vì vi phạm quy định bảo vệ động vật hoang dã.",negative
+"Công ty AAN thiếu chương trình đào tạo an toàn vệ sinh lao động.",negative
+"Tập đoàn AAO không hỗ trợ tài chính cho phụ nữ mang thai.",negative
+"Doanh nghiệp AAP bị tố cáo phân biệt đối xử với người khuyết tật.",negative
+"Công ty AAQ không công bố thông tin về sử dụng tài nguyên nước.",negative
+"Tập đoàn AAR không tổ chức chương trình hỗ trợ học sinh nghèo.",negative
+"Doanh nghiệp AAS trì hoãn thực hiện kế hoạch giảm sử dụng nhựa.",negative
+"Công ty AAT bị phạt vì sử dụng nguyên liệu không rõ nguồn gốc.",negative
+"Tập đoàn AAU không kiểm soát được lượng khí thải nhà máy.",negative
+"Doanh nghiệp AAV bị khách hàng khiếu nại về dịch vụ chăm sóc sức khỏe.",negative
+"Công ty AAW không đảm bảo an toàn thực phẩm trong nhà ăn công ty.",negative
+"Tập đoàn AAX bị phản ánh về điều kiện làm việc không phù hợp.",negative
+"Doanh nghiệp AAY không có chương trình đào tạo về đạo đức kinh doanh.",negative
+"Công ty AAZ bị phát hiện sử dụng hợp đồng lao động không hợp pháp.",negative
+"Tập đoàn ABA không hỗ trợ cộng đồng bị ảnh hưởng bởi dự án khai thác khoáng sản.",negative
+"Doanh nghiệp ABB bị phạt vì không tuân thủ quy định an toàn cháy nổ.",negative
+"Công ty ABC thiếu minh bạch trong công bố chỉ số ESG.",negative
+"Tập đoàn ABD không thực hiện kiểm toán định kỳ về phát triển bền vững.",negative
+"Doanh nghiệp ABE bị tố cáo lạm dụng lao động nữ.",negative
+"Công ty ABF bị xử phạt vì không công khai báo cáo tài chính ESG.",negative
+"Tập đoàn ABG không có chính sách hỗ trợ người lao động nghỉ việc do dịch bệnh.",negative
+"Doanh nghiệp ABH trì hoãn công bố báo cáo tác động môi trường.",negative
+"Công ty ABI không đảm bảo quyền lợi cho nhân viên hợp đồng ngắn hạn.",negative
+"Tập đoàn ABJ bị phát hiện sử dụng vật liệu gây ô nhiễm nguồn nước.",negative
+"Doanh nghiệp ABK không hỗ trợ tài chính cho người lao động bị tai nạn.",negative
+"Công ty ABL không công khai thông tin về rủi ro môi trường.",negative
+"Tập đoàn ABM bị tố cáo về gian lận trong kiểm toán ESG.",negative
+"Doanh nghiệp ABN không có chính sách bảo vệ quyền lợi người tiêu dùng.",negative
+"Công ty ABO thiếu chương trình đào tạo về quản trị rủi ro.",negative
+"Tập đoàn ABP bị xử phạt vì không kiểm soát tiếng ồn công nghiệp.",negative
+"Doanh nghiệp ABQ không công khai kết quả kiểm toán nội bộ.",negative
+"Công ty ABR trì hoãn triển khai chương trình phát triển bền vững.",negative
+"Tập đoàn ABS bị chỉ trích vì không hỗ trợ phát triển cộng đồng.",negative
+"Công ty ABT công bố số liệu sử dụng năng lượng tái tạo trong báo cáo ESG.",neutral
+"Doanh nghiệp ABU tổ chức hội thảo về quản trị rủi ro tài chính.",neutral
+"Công ty ABV lập kế hoạch phát triển bền vững cho ba năm tới.",neutral
+"Tập đoàn ABW thực hiện khảo sát về mức độ hài lòng của khách hàng.",neutral
+"Doanh nghiệp ABX cập nhật số liệu tiêu thụ nước trong báo cáo hàng năm.",neutral
+"Công ty ABY công bố chính sách về bảo vệ dữ liệu cá nhân.",neutral
+"Tập đoàn ABZ tổ chức lớp tập huấn về an toàn lao động.",neutral
+"Doanh nghiệp ACA phát hành báo cáo cập nhật về tác động xã hội.",neutral
+"Công ty ACB ghi nhận số liệu phát thải trong báo cáo thường niên.",neutral
+"Tập đoàn ACC cập nhật thông tin về hoạt động thiện nguyện.",neutral
+"Doanh nghiệp ACD tổ chức hội thảo về tiêu chuẩn quốc tế ESG.",neutral
+"Công ty ACE công bố báo cáo tài chính quý I năm 2026.",neutral
+"Tập đoàn ACF lập kế hoạch giảm phát thải khí nhà kính đến năm 2035.",neutral
+"Doanh nghiệp ACG thực hiện khảo sát ý kiến cổ đông về quản trị công ty.",neutral
+"Công ty ACH tổ chức lớp đào tạo về đạo đức kinh doanh.",neutral
+"Tập đoàn ACI phát hành tài liệu hướng dẫn về tiết kiệm năng lượng.",neutral
+"Doanh nghiệp ACJ cập nhật chính sách phát triển nguồn nhân lực.",neutral
+"Công ty ACK công bố số liệu về đa dạng giới trong doanh nghiệp.",neutral
+"Tập đoàn ACL thực hiện đánh giá rủi ro môi trường cho dự án mới.",neutral
+"Doanh nghiệp ACM cập nhật kết quả giảm rác thải nhựa.",neutral
+"Công ty ACN tổ chức tọa đàm về phát triển bền vững.",neutral
+"Tập đoàn ACO phát hành báo cáo về trách nhiệm xã hội doanh nghiệp.",neutral
+"Doanh nghiệp ACP công bố kế hoạch hỗ trợ cộng đồng vùng sâu.",neutral
+"Công ty ACQ tổ chức lớp tập huấn về phòng cháy chữa cháy.",neutral
+"Tập đoàn ACR ghi nhận ý kiến phản hồi của cổ đông về ESG.",neutral
+"Doanh nghiệp ACS công bố chỉ số phát thải nhà kính năm nay.",neutral
+"Công ty ACT cập nhật số liệu về tái chế rác thải trong báo cáo thường niên.",neutral
+"Tập đoàn ACU tổ chức sự kiện truyền thông về tiết kiệm nước.",neutral
+"Doanh nghiệp ACV phát hành tài liệu hướng dẫn về đạo đức nghề nghiệp.",neutral
+"Công ty ACW cập nhật thông tin về sử dụng năng lượng xanh.",neutral
+"Tập đoàn ACX tổ chức hội thảo về phát triển sản phẩm xanh.",neutral
+"Mặc dù gặp nhiều thách thức về tài chính nhưng công ty YJ vẫn đầu tư vào hệ thống năng lượng mặt trời nhằm giảm phát thải khí nhà kính.",positive
+"Doanh nghiệp YK không chỉ cung cấp suất ăn miễn phí cho học sinh nghèo mà còn hỗ trợ xây dựng thư viện cộng đồng địa phương.",positive
+"Tập đoàn YL đào tạo đội ngũ lãnh đạo trẻ và đồng thời áp dụng chính sách đa dạng giới trong quản lý cấp cao.",positive
+"Dù chi phí tăng cao, công ty YM vẫn triển khai hoạt động tái chế chất thải nhựa trên toàn bộ nhà máy.",positive
+"Doanh nghiệp YN vừa phát động chương trình hiến máu nhân đạo vừa tổ chức lớp học bảo vệ môi trường cho nhân viên.",positive
+"Công ty YO xây dựng vườn rau hữu cơ trong khuôn viên và khuyến khích nhân viên tham gia chăm sóc.",positive
+"Tập đoàn YP không chỉ đạt chứng nhận ISO về môi trường mà còn tài trợ thiết bị y tế cho vùng sâu.",positive
+"Doanh nghiệp YQ phối hợp với các tổ chức phi lợi nhuận để nâng cao ý thức tiết kiệm nước trong cộng đồng.",positive
+"Công ty YR triển khai hệ thống lọc nước mới và tặng thiết bị lọc cho các trường học vùng khó khăn.",positive
+"Mặc dù quy mô nhỏ, tập đoàn YS vẫn tổ chức các lớp đào tạo về phát triển bền vững cho toàn bộ nhân viên.",positive
+"Doanh nghiệp YT vừa hỗ trợ vốn cho phụ nữ khởi nghiệp vừa xây dựng nhà vệ sinh đạt chuẩn tại địa phương.",positive
+"Công ty YU hợp tác với các trường đại học để nghiên cứu công nghệ tiết kiệm năng lượng.",positive
+"Tập đoàn YV phát động chiến dịch phân loại rác tại nguồn và khen thưởng nhân viên tích cực tham gia.",positive
+"Doanh nghiệp YW không chỉ áp dụng mô hình kinh tế tuần hoàn mà còn tích cực truyền thông nội bộ.",positive
+"Công ty YX tổ chức các buổi tọa đàm về bình đẳng giới đồng thời cam kết không phân biệt đối xử.",positive
+"Tập đoàn YY tiến hành kiểm toán định kỳ về môi trường và công khai toàn bộ kết quả cho cộng đồng.",positive
+"Doanh nghiệp YZ hỗ trợ học phí cho con em công nhân và cam kết đảm bảo bình đẳng cơ hội giáo dục.",positive
+"Công ty ZA tổ chức lớp huấn luyện an toàn lao động song song với các hoạt động thiện nguyện thường niên.",positive
+"Tập đoàn ZB không chỉ giảm lượng phát thải khí CO2 mà còn phát triển hệ thống trồng cây xanh quanh nhà máy.",positive
+"Doanh nghiệp ZC duy trì chính sách làm việc linh hoạt và hỗ trợ tài chính cho nhân viên gặp khó khăn.",positive
+"Công ty ZD tổ chức chương trình trồng rừng ngập mặn và đồng thời cung cấp kiến thức bảo vệ môi trường cho cư dân.",positive
+"Tập đoàn ZE đầu tư vào dự án năng lượng gió mặc dù lợi nhuận trước mắt chưa cao.",positive
+"Doanh nghiệp ZF xây dựng khu vui chơi cho trẻ em và kết hợp tuyên truyền phòng chống bạo lực học đường.",positive
+"Công ty ZG tích cực tham gia các hoạt động hiến máu nhân đạo và hỗ trợ thiết bị học tập cho trẻ em nghèo.",positive
+"Tập đoàn ZH đồng thời áp dụng công nghệ xanh trong sản xuất và khuyến khích nhân viên sử dụng phương tiện công cộng.",positive
+"Doanh nghiệp ZI phát động chiến dịch bảo vệ động vật hoang dã và hỗ trợ xây dựng nhà cho người khó khăn.",positive
+"Công ty ZJ công bố minh bạch báo cáo môi trường và cam kết nâng cao sự đa dạng trong tuyển dụng.",positive
+"Tập đoàn ZK vừa đạt giải thưởng bền vững vừa tổ chức lớp học phòng chống cháy nổ cho nhân viên.",positive
+"Doanh nghiệp ZL thực hiện khảo sát ý kiến cư dân về dự án mới và công khai toàn bộ kết quả.",positive
+"Công ty ZM tài trợ học bổng cho sinh viên ngành môi trường và phát triển sản phẩm thân thiện thiên nhiên.",positive
+"Tập đoàn ZN tổ chức hoạt động dọn rác bờ biển đồng thời hỗ trợ tài chính cho ngư dân.",positive
+"Doanh nghiệp ZO vừa áp dụng chính sách làm việc từ xa vừa giám sát hiệu quả tiêu thụ năng lượng.",positive
+"Công ty ZP xây dựng khu bảo tồn động vật và đào tạo kỹ năng bảo vệ môi trường cho học sinh.",positive
+"Tập đoàn ZQ thúc đẩy bình đẳng giới trong ban lãnh đạo và đầu tư vào công nghệ xanh.",positive
+"Doanh nghiệp ZR tổ chức các buổi hội thảo về đạo đức kinh doanh kết hợp hỗ trợ tài chính cho cộng đồng.",positive
+"Công ty ZS mở rộng chương trình bảo hiểm sức khỏe và hỗ trợ tâm lý cho nhân viên.",positive
+"Tập đoàn ZT khen thưởng cá nhân có sáng kiến xanh và đầu tư vào hệ thống năng lượng tái tạo.",positive
+"Doanh nghiệp ZU tài trợ xây nhà cho người dân vùng lũ và phát động phong trào tiết kiệm nước.",positive
+"Công ty ZV hỗ trợ trang thiết bị y tế cho bệnh viện vùng sâu và tổ chức lớp học về an toàn lao động.",positive
+"Tập đoàn ZW kết hợp phát triển sản phẩm sinh học và tổ chức các hoạt động giáo dục môi trường.",positive
+"Doanh nghiệp ZX cung cấp suất ăn miễn phí cho người nghèo và đầu tư vào hệ thống lọc nước sạch.",positive
+"Mặc dù đã bị xử phạt trước đó, công ty ZY vẫn tiếp tục xả thải vượt quy chuẩn ra môi trường.",negative
+"Doanh nghiệp ZZ thiếu minh bạch trong công bố số liệu phát thải và bị khách hàng phản ánh liên tục.",negative
+"Tập đoàn AAA không đảm bảo quyền lợi cho nhân viên nữ và bị tố cáo phân biệt đối xử.",negative
+"Công ty AAB trì hoãn thực hiện cam kết giảm phát thải và không hỗ trợ cộng đồng bị ảnh hưởng.",negative
+"Doanh nghiệp AAC bị phát hiện sử dụng hóa chất độc hại và không công khai thông tin rủi ro.",negative
+"Tập đoàn AAD không có chương trình đào tạo về an toàn lao động và bị phạt vì điều kiện làm việc kém.",negative
+"Công ty AAE sử dụng vật liệu không rõ nguồn gốc và gặp nhiều khiếu nại về an toàn sản phẩm.",negative
+"Doanh nghiệp AAF không kiểm soát lượng khí thải và bị phạt vì vi phạm quy định môi trường.",negative
+"Tập đoàn AAG thiếu chính sách bảo vệ dữ liệu khách hàng và không kiểm toán nội bộ định kỳ.",negative
+"Công ty AAH bị xử lý vì không tuân thủ quy định về bảo vệ động vật và sử dụng lao động trẻ em.",negative
+"Doanh nghiệp AAI trì hoãn công bố báo cáo ESG và không hỗ trợ tài chính cho người lao động.",negative
+"Tập đoàn AAJ không đảm bảo an toàn thực phẩm trong nhà ăn và bị đình chỉ hoạt động sản xuất.",negative
+"Công ty AAK bị phát hiện gian lận trong báo cáo tài chính và vi phạm đạo đức kinh doanh.",negative
+"Doanh nghiệp AAL không công bố thông tin về phát thải khí nhà kính và bị khách hàng tẩy chay.",negative
+"Tập đoàn AAM gặp nhiều phản ánh về điều kiện làm việc nguy hiểm và thiếu hỗ trợ đào tạo.",negative
+"Công ty AAN bị tố cáo lạm dụng lao động và không hỗ trợ quyền lợi bảo hiểm.",negative
+"Doanh nghiệp AAO không tổ chức kiểm toán độc lập và chậm trễ công bố báo cáo phát triển bền vững.",negative
+"Tập đoàn AAP không thực hiện cam kết bảo vệ môi trường và bị phạt vì xả thải ra sông.",negative
+"Công ty AAQ thiếu chính sách an toàn thông tin và gặp sự cố rò rỉ dữ liệu khách hàng.",negative
+"Doanh nghiệp AAR không hỗ trợ cộng đồng vùng dự án và bị chỉ trích thiếu trách nhiệm xã hội.",negative
+"Tập đoàn AAS trì hoãn các chương trình thiện nguyện và không công khai số liệu về đa dạng giới.",negative
+"Công ty AAT bị xử phạt vì không kiểm soát tiếng ồn và gây ảnh hưởng đến khu dân cư lân cận.",negative
+"Doanh nghiệp AAU không có chính sách phòng chống quấy rối và bị nhân viên phản ánh.",negative
+"Tập đoàn AAV thiếu minh bạch trong sử dụng vốn ESG và bị điều tra gian lận.",negative
+"Công ty AAW không hỗ trợ người lao động bị tai nạn và không có bảo hiểm y tế phù hợp.",negative
+"Doanh nghiệp AAX gặp nhiều khiếu nại về sản phẩm không an toàn và không có biện pháp khắc phục.",negative
+"Tập đoàn AAY không tổ chức đào tạo về đạo đức kinh doanh và bị phạt vi phạm pháp luật.",negative
+"Công ty AAZ không đảm bảo quyền lợi cho nhân viên hợp đồng ngắn hạn và bị phạt hành chính.",negative
+"Doanh nghiệp ABA bị khách hàng khiếu nại về chất lượng dịch vụ và không có chính sách khắc phục.",negative
+"Tập đoàn ABB không hỗ trợ phát triển cộng đồng và bị phạt vì vi phạm quy định bảo vệ môi trường.",negative
+"Công ty ABC bị phát hiện sử dụng hợp đồng lao động không hợp pháp và không công khai thông tin.",negative
+"Doanh nghiệp ABD trì hoãn công bố báo cáo tài chính và không thực hiện kiểm toán định kỳ.",negative
+"Tập đoàn ABE không đảm bảo an toàn vệ sinh thực phẩm và bị đình chỉ hoạt động nhà ăn.",negative
+"Công ty ABF không thực hiện cam kết giảm sử dụng nhựa và bị phạt vì gây ô nhiễm nước.",negative
+"Doanh nghiệp ABG không hỗ trợ tài chính khi nhân viên gặp khó khăn và bị phản ánh liên tục.",negative
+"Tập đoàn ABH không công khai báo cáo phát triển bền vững và bị khách hàng tẩy chay.",negative
+"Công ty ABI không tổ chức đào tạo về an toàn lao động và bị phạt hành chính nhiều lần.",negative
+"Doanh nghiệp ABJ không kiểm soát lượng khí thải và bị xử phạt vì gây ô nhiễm không khí.",negative
+"Tập đoàn ABK không có chính sách bảo vệ quyền lợi người tiêu dùng và bị khiếu nại liên tục.",negative
+"Mặc dù đã thực hiện nhiều biện pháp tiết kiệm điện, công ty ABL vẫn chưa đạt mục tiêu giảm phát thải.",neutral
+"Tập đoàn ABM vừa cập nhật số liệu phát thải khí nhà kính, vừa tổ chức tọa đàm về phát triển bền vững.",neutral
+"Doanh nghiệp ABN công bố báo cáo ESG và đồng thời ghi nhận ý kiến phản hồi của cổ đông.",neutral
+"Công ty ABO tổ chức lớp tập huấn về phòng cháy chữa cháy nhưng chưa triển khai rộng rãi.",neutral
+"Tập đoàn ABP phát hành tài liệu hướng dẫn về đạo đức nghề nghiệp và cập nhật chính sách bảo vệ dữ liệu.",neutral
+"Doanh nghiệp ABQ lập kế hoạch hỗ trợ cộng đồng vùng sâu và tổ chức hội thảo về ESG.",neutral
+"Công ty ABR ghi nhận số liệu về tiêu thụ nước trong báo cáo nhưng chưa công bố chi tiết.",neutral
+"Tập đoàn ABS tổ chức lớp đào tạo về kỹ năng sống cho nhân viên và cập nhật thông tin về đa dạng giới.",neutral
+"Doanh nghiệp ABT thực hiện khảo sát ý kiến nhân viên về môi trường làm việc nhưng kết quả chưa được công bố.",neutral
+"Công ty ABU cập nhật thông tin về sử dụng năng lượng xanh và phát hành báo cáo tài chính quý.",neutral
+"Tập đoàn ABV công bố chỉ số phát thải nhà kính kèm theo thông báo về kế hoạch giảm phát thải.",neutral
+"Doanh nghiệp ABW tổ chức sự kiện nâng cao ý thức tiết kiệm nước nhưng chưa có báo cáo kết quả.",neutral
+"Công ty ABX cập nhật số liệu tái chế rác thải trong báo cáo thường niên và tổ chức lớp tập huấn về an toàn lao động.",neutral
+"Tập đoàn ABY công bố kế hoạch phát triển bền vững trung hạn và tổ chức hội thảo về ESG.",neutral
+"Doanh nghiệp ABZ phát hành báo cáo cập nhật về đa dạng giới và tổ chức tọa đàm về phát triển xanh.",neutral
+"Công ty ACA ghi nhận số liệu sử dụng năng lượng tái tạo trong báo cáo và lập kế hoạch giảm phát thải.",neutral
+"Tập đoàn ACB tổ chức hội thảo về tiêu chuẩn ESG quốc tế và cập nhật kết quả khảo sát ý kiến cổ đông.",neutral
+"Doanh nghiệp ACC phát hành tài liệu hướng dẫn về tiết kiệm năng lượng và tổ chức lớp đào tạo về đạo đức kinh doanh.",neutral
+"Công ty ACD công bố chính sách bảo vệ quyền lợi khách hàng và cập nhật thông tin về hoạt động thiện nguyện.",neutral
+"Tập đoàn ACE thực hiện đánh giá rủi ro môi trường định kỳ và công bố báo cáo tài chính năm nay.",neutral
+"Doanh nghiệp ACF tổ chức tọa đàm về phát triển năng lượng sạch và cập nhật số liệu về tiêu thụ nước.",neutral
+"Công ty ACG lập kế hoạch hỗ trợ cộng đồng vùng dự án và tổ chức lớp tập huấn về phòng chống cháy nổ.",neutral
+"Tập đoàn ACH ghi nhận ý kiến phản hồi của cổ đông về ESG và phát hành báo cáo cập nhật về đa dạng giới.",neutral
+"Doanh nghiệp ACI công bố số liệu phát thải nhà kính trong báo cáo thường niên và tổ chức hội thảo về quản trị công ty.",neutral
+"Công ty ACJ phát hành tài liệu hướng dẫn sử dụng năng lượng hiệu quả và cập nhật chính sách bảo vệ dữ liệu cá nhân.",neutral
+"Tập đoàn ACK tổ chức lớp đào tạo về an toàn lao động và công bố chỉ số phát triển bền vững.",neutral
+"Doanh nghiệp ACL cập nhật thông tin về tiêu thụ nước trong sản xuất và tổ chức tọa đàm về phát triển bền vững.",neutral
+"Công ty ACM công bố kết quả kiểm toán tài chính năm 2026 và lập kế hoạch giảm sử dụng nhựa.",neutral
+"Tập đoàn ACN tổ chức hội thảo về tiêu chuẩn ESG quốc tế và cập nhật số liệu về lượng rác thải tái chế.",neutral
+"Doanh nghiệp ACO phát hành báo cáo về trách nhiệm xã hội doanh nghiệp và tổ chức lớp tập huấn về đạo đức nghề nghiệp.",neutral
+"Công ty ACR tổ chức lớp học kỹ năng mềm cho nhân viên và cam kết không phân biệt đối xử.",positive
+"Tập đoàn ACS đầu tư vào hệ thống năng lượng mặt trời và hỗ trợ tài chính cho cộng đồng.",positive
+"Doanh nghiệp ACT phát động chiến dịch giảm rác thải nhựa tại văn phòng.",positive
+"Công ty ACU xây dựng chương trình hỗ trợ học sinh nghèo và tổ chức lớp học về môi trường.",positive
+"Tập đoàn ACV hợp tác với tổ chức quốc tế để phát triển công nghệ xanh.",positive
+"Doanh nghiệp ACW tổ chức lớp tập huấn về an toàn thực phẩm và tặng sách giáo khoa cho trẻ em vùng sâu.",positive
+"Công ty ACX phát triển sản phẩm thân thiện môi trường và đầu tư vào giáo dục cộng đồng.",positive
+"Tập đoàn ACY tổ chức hội thảo về quản trị ESG và hỗ trợ xây nhà cho người khó khăn.",positive
+"Doanh nghiệp ACZ khuyến khích nhân viên tham gia các hoạt động thiện nguyện.",positive
+"Công ty ADA tổ chức lớp học về biến đổi khí hậu cho học sinh và đầu tư vào hệ thống lọc nước.",positive
+"Tập đoàn ADB không chỉ giảm lượng khí thải mà còn phát triển khu vực xanh trong khu công nghiệp.",positive
+"Doanh nghiệp ADC tổ chức lớp đào tạo về đạo đức kinh doanh và khuyến khích sử dụng phương tiện công cộng.",positive
+"Công ty ADD hỗ trợ thiết bị học tập cho trẻ em nghèo và tổ chức thảo luận về năng lượng tái tạo.",positive
+"Tập đoàn ADE phát triển sản phẩm không chứa hóa chất độc hại và đạt chứng nhận quốc tế về bền vững.",positive
+"Doanh nghiệp ADF cung cấp suất ăn miễn phí cho nhân viên và tổ chức lớp học về an toàn lao động.",positive
+"Công ty ADG áp dụng công nghệ tiết kiệm nước trong sản xuất và tổ chức các buổi truyền thông về ESG.",positive
+"Tập đoàn ADH tặng xe đạp cho học sinh nghèo và phát động chương trình bảo vệ đa dạng sinh học.",positive
+"Doanh nghiệp ADI tổ chức lớp học kỹ năng sống cho nhân viên và hỗ trợ tài chính cho phụ nữ.",positive
+"Công ty ADJ hỗ trợ xây dựng cầu đường cho cộng đồng và cam kết minh bạch trong báo cáo ESG.",positive
+"Tập đoàn ADK mở rộng chương trình bảo hiểm sức khỏe và tổ chức lớp học phòng chống cháy nổ.",positive
+"Doanh nghiệp ADL bị xử lý vì không kiểm soát lượng khí thải.",negative
+"Công ty ADM không hỗ trợ cộng đồng bị ảnh hưởng bởi dự án và bị phạt vì điều kiện làm việc kém.",negative
+"Tập đoàn ADN bị tố cáo sử dụng lao động trẻ em và không công bố số liệu phát thải.",negative
+"Doanh nghiệp ADO không tổ chức đào tạo về an toàn lao động.",negative
+"Công ty ADP bị phát hiện sử dụng vật liệu không thân thiện môi trường.",negative
+"Tập đoàn ADQ trì hoãn công bố báo cáo ESG và không có chính sách bảo vệ quyền lợi người lao động.",negative
+"Doanh nghiệp ADR bị phạt vì không tuân thủ quy định phòng cháy chữa cháy.",negative
+"Công ty ADS thiếu minh bạch trong báo cáo tài chính ESG.",negative
+"Tập đoàn ADT bị chỉ trích vì không hỗ trợ tài chính cho nhân viên.",negative
+"Doanh nghiệp ADU không kiểm soát được lượng khí thải và không công khai thông tin rủi ro môi trường.",negative
+"Công ty ADV bị khách hàng phản ánh về sản phẩm gây hại sức khỏe.",negative
+"Tập đoàn ADW thiếu chương trình đào tạo về quản trị rủi ro.",negative
+"Doanh nghiệp ADX không tổ chức lớp học về đạo đức kinh doanh.",negative
+"Công ty ADY không hỗ trợ tài chính cho người lao động bị tai nạn.",negative
+"Tập đoàn ADZ bị xử phạt vì không kiểm soát tiếng ồn.",negative
+"Doanh nghiệp AEA không đảm bảo quyền lợi cho nhân viên hợp đồng ngắn hạn.",negative
+"Công ty AEB bị khách hàng kiện vì điều kiện làm việc không an toàn.",negative
+"Tập đoàn AEC không thực hiện cam kết giảm sử dụng nhựa.",negative
+"Doanh nghiệp AED không tổ chức chương trình bảo vệ động vật hoang dã.",negative
+"Công ty AEE bị phát hiện gian lận trong báo cáo phát triển bền vững.",negative
+"Tập đoàn AEF công bố chỉ số phát thải nhà kính và tổ chức hội thảo về đạo đức kinh doanh.",neutral
+"Doanh nghiệp AEG cập nhật số liệu tái chế rác thải trong báo cáo thường niên.",neutral
+"Công ty AEH tổ chức tọa đàm về phát triển năng lượng sạch và lập kế hoạch phát triển ESG.",neutral
+"Tập đoàn AEI phát hành tài liệu hướng dẫn về tiết kiệm năng lượng.",neutral
+"Doanh nghiệp AEJ ghi nhận ý kiến phản hồi của cổ đông về quản trị công ty.",neutral
+"Công ty AEK công bố báo cáo tài chính kèm chỉ số ESG.",neutral
+"Tập đoàn AEL tổ chức lớp học kỹ năng mềm cho nhân viên.",neutral
+"Doanh nghiệp AEM cập nhật thông tin về tiêu thụ nước trong sản xuất.",neutral
+"Công ty AEN tổ chức lớp đào tạo về phòng chống cháy nổ.",neutral
+"Tập đoàn AEO phát hành báo cáo về trách nhiệm xã hội doanh nghiệp.",neutral
+"Doanh nghiệp AEP công bố kế hoạch hỗ trợ cộng đồng vùng sâu.",neutral
+"Công ty AEQ tổ chức lớp tập huấn về đạo đức nghề nghiệp.",neutral
+"Tập đoàn AER ghi nhận số liệu phát thải trong báo cáo thường niên.",neutral
+"Doanh nghiệp AES tổ chức sự kiện truyền thông về tiết kiệm nước.",neutral
+"Công ty AET cập nhật kết quả giảm rác thải nhựa.",neutral
+"Tập đoàn AEU tổ chức hội thảo về tiêu chuẩn ESG quốc tế.",neutral
+"Doanh nghiệp AEV phát hành báo cáo cập nhật về đa dạng giới.",neutral
+"Công ty AEW công bố thông tin về sử dụng năng lượng xanh.",neutral
+"Tập đoàn AEX tổ chức hội thảo về phát triển sản phẩm xanh.",neutral
+"Doanh nghiệp AEY phát hành tài liệu hướng dẫn về đạo đức kinh doanh.",neutral
+"Công ty AEZ tổ chức lớp đào tạo về an toàn lao động.",neutral
+"Tập đoàn AFA lập kế hoạch đánh giá rủi ro môi trường cho dự án mới.",neutral
+"Doanh nghiệp AFB cập nhật số liệu về lượng rác thải tái chế.",neutral
+"Công ty AFC cập nhật thông tin về hoạt động thiện nguyện trong năm.",neutral
+"Tập đoàn AFD tổ chức hội thảo chia sẻ kinh nghiệm phát triển xanh.",neutral
+"Doanh nghiệp AFE công bố danh sách đối tác bền vững.",neutral
+"Công ty AFF thực hiện khảo sát ý kiến người dân về môi trường.",neutral
+"Tập đoàn AFG ghi nhận số liệu tiêu thụ nước trong báo cáo ESG.",neutral
+"Doanh nghiệp AFH tổ chức lớp tập huấn về phòng chống cháy nổ.",neutral
+"Công ty AFI phát hành báo cáo tài chính quý III năm 2026.",neutral
+"Tập đoàn AFJ công bố kế hoạch phát triển năng lượng tái tạo.",neutral
+"Doanh nghiệp AFK cập nhật số liệu tái chế rác thải.",neutral
+"Công ty AFL tổ chức sự kiện truyền thông về tiết kiệm năng lượng.",neutral
+"Tập đoàn AFM lập kế hoạch phát triển ESG cho 3 năm tới.",neutral
+"Doanh nghiệp AFN phát hành tài liệu hướng dẫn về tiết kiệm nước.",neutral
+"Công ty AFO tổ chức hội thảo về quản trị doanh nghiệp bền vững.",neutral
+"Tập đoàn AFP cập nhật thông tin về tỷ lệ sử dụng năng lượng tái tạo.",neutral
+"Doanh nghiệp AFQ tổ chức tọa đàm về phát triển bền vững.",neutral
+"Công ty AFR ghi nhận số liệu phát thải trong báo cáo thường niên.",neutral
+"Tập đoàn AFS tổ chức lớp đào tạo về an toàn lao động.",neutral
+"Doanh nghiệp AFT cập nhật thông tin về sử dụng năng lượng xanh.",neutral
+"Công ty AFU phát hành báo cáo về trách nhiệm xã hội doanh nghiệp.",neutral
+"Tập đoàn AFV tổ chức hội thảo về phát triển sản phẩm xanh.",neutral
+"Doanh nghiệp AFW phát hành tài liệu hướng dẫn về đạo đức nghề nghiệp.",neutral
+"Công ty AFX tổ chức lớp đào tạo về đạo đức kinh doanh.",neutral
+"Tập đoàn AFY ghi nhận ý kiến phản hồi của cổ đông về ESG.",neutral
+"Doanh nghiệp AFZ công bố chỉ số phát thải nhà kính năm nay.",neutral
+"Công ty AGA tổ chức lớp học kỹ năng mềm cho nhân viên.",neutral
+"Tập đoàn AGB phát hành báo cáo cập nhật về đa dạng giới.",neutral
+"Doanh nghiệp AGC công bố thông tin về sử dụng năng lượng xanh.",neutral
+"Công ty AGD tổ chức tọa đàm về phát triển bền vững.",neutral
+"Tập đoàn AGE phát hành báo cáo về trách nhiệm xã hội doanh nghiệp.",neutral
+"Công ty ABA đầu tư vào năng lượng tái tạo để giảm khí thải.",positive
+"Doanh nghiệp ABB khuyến khích sử dụng xe đạp làm phương tiện di chuyển và tổ chức các chiến dịch xanh.",positive
+"Tập đoàn ABC phát triển sản phẩm xanh với công nghệ hiện đại.",positive
+"Công ty ABD tài trợ học bổng cho sinh viên ngành môi trường.",positive
+"Doanh nghiệp ABE triển khai quy trình sản xuất sạch và thân thiện với môi trường.",positive
+"Tập đoàn ABF hợp tác với tổ chức phi lợi nhuận để bảo vệ rừng tự nhiên.",positive
+"Công ty ABG áp dụng mô hình kinh tế tuần hoàn nhằm tối ưu hóa nguồn lực năng lượng.",positive
+"Doanh nghiệp ABH tăng cường đào tạo an toàn lao động và phát triển bền vững.",positive
+"Tập đoàn ABI tổ chức lễ hội xanh nhằm tạo ra cộng đồng ý thức bảo vệ môi trường.",positive
+"Công ty ABJ đầu tư vào nghiên cứu đổi mới sáng tạo về năng lượng sạch.",positive
+"Doanh nghiệp ABK tổ chức các hoạt động thiện nguyện và trồng cây xanh cho khu vực đô thị.",positive
+"Tập đoàn ABL khuyến khích ứng dụng công nghệ xanh trong sản xuất.",positive
+"Công ty ABM phát hành báo cáo minh bạch về tiêu thụ điện năng và năng lượng xanh.",positive
+"Doanh nghiệp ABN tặng quà cho cộng đồng và đầu tư vào hệ thống xử lý chất thải.",positive
+"Tập đoàn ABO triển khai chương trình tiết kiệm điện và sử dụng năng lượng mặt trời.",positive
+"Công ty ABP tổ chức hội thảo về bảo vệ đa dạng sinh học và phát triển bền vững.",positive
+"Doanh nghiệp ABQ chú trọng đến công nghệ tái chế và giảm tiêu thụ rác thải.",positive
+"Tập đoàn ABR hỗ trợ phát triển cộng đồng qua các chương trình giáo dục môi trường.",positive
+"Công ty ABS phát hành báo cáo ESG minh bạch và đạt chứng nhận quốc tế.",positive
+"Doanh nghiệp ABT xây dựng nhà máy xử lý nước thải hiện đại và tiết kiệm năng lượng.",positive
+"Tập đoàn ABU đầu tư vào hệ thống điện gió và cải thiện chất lượng không khí.",positive
+"Công ty ABV cam kết bảo vệ môi trường qua việc sử dụng nguyên liệu xanh.",positive
+"Doanh nghiệp ABW khuyến khích tái chế và quản lý chất thải hiệu quả.",positive
+"Tập đoàn ABX hỗ trợ các chương trình trồng cây xanh ở khu vực đô thị.",positive
+"Công ty ABY thúc đẩy tiêu dùng bền vững và phong trào bảo vệ môi trường.",positive
+"Doanh nghiệp ABZ hợp tác với các chuyên gia môi trường để thiết lập quy trình sản xuất xanh.",positive
+"Tập đoàn ACA khởi động dự án năng lượng tái tạo để giảm sự phụ thuộc vào nhiên liệu hóa thạch.",positive
+"Công ty ACB triển khai đổi mới sáng tạo nhằm giảm lượng khí thải carbon.",positive
+"Doanh nghiệp ACC tặng quà cho các cộng đồng và thúc đẩy phát triển bền vững.",positive
+"Tập đoàn ACD tổ chức lớp đào tạo về ESG và phát triển công nghệ xanh.",positive
+"Công ty ACE áp dụng hệ thống quản lý năng lượng tiên tiến nhằm tối ưu hiệu suất sản xuất.",positive
+"Doanh nghiệp ACF tổ chức ngày hội xanh kết hợp tuyên truyền bảo vệ môi trường.",positive
+"Tập đoàn ACG phát động chiến dịch tiết kiệm nước và năng lượng trong toàn công ty.",positive
+"Công ty ACH đầu tư vào nghiên cứu công nghệ sạch và giáo dục cộng đồng về bền vững.",positive
+"Doanh nghiệp ACI triển khai dự án sử dụng nguồn năng lượng sạch và tái tạo trong sản xuất.",positive
+"Công ty ACJ bị phạt vì xả thải không kiểm soát và gây ô nhiễm nghiêm trọng.",negative
+"Doanh nghiệp ACK không công khai báo cáo ESG và bị phản ánh về điều kiện làm việc kém.",negative
+"Tập đoàn ACL sử dụng nguyên liệu không bền vững và gây thiệt hại cho môi trường.",negative
+"Công ty ACM không đáp ứng tiêu chuẩn an toàn và liên tục nhận khiếu nại từ khách hàng.",negative
+"Doanh nghiệp ACN chậm trễ trong việc triển khai các biện pháp làm sạch nước thải.",negative
+"Tập đoàn ACO không đầu tư vào công nghệ xanh và bị chỉ trích vì lãng phí tài nguyên.",negative
+"Công ty ACP bị cáo buộc gian lận trong báo cáo môi trường và không minh bạch.",negative
+"Doanh nghiệp ACQ không có chính sách bảo vệ người lao động và gặp nhiều vụ kiện tụng.",negative
+"Tập đoàn ACR bị phản ánh vì không xử lý chất thải độc hại đúng cách.",negative
+"Công ty ACS không thực hiện cam kết giảm khí thải và gây ra ô nhiễm nặng.",negative
+"Doanh nghiệp ACT sử dụng công nghệ lỗi thời dẫn đến xả ra lượng khí thải vượt chuẩn.",negative
+"Tập đoàn ACU không đảm bảo an toàn lao động và thường xuyên có tai nạn tại nhà máy.",negative
+"Công ty ACV bị phạt do không tuân thủ quy định bảo vệ môi trường và xả thải gây ô nhiễm.",negative
+"Doanh nghiệp ACW gặp khó khăn trong quản lý chất thải rắn và không chuyển đổi sang năng lượng sạch.",negative
+"Tập đoàn ACX bị cáo buộc làm ô nhiễm nguồn nước và không đầu tư đủ vào công nghệ xử lý.",negative
+"Công ty ACY không đáp ứng chuẩn mực ESG và liên tục nhận phàn nàn từ thị trường.",negative
+"Doanh nghiệp ACZ bị tố cáo về việc sử dụng lao động không minh bạch và gây ảnh hưởng xấu đến môi trường.",negative
+"Tập đoàn ADA không thực hiện chương trình đào tạo an toàn lao động và gặp lỗi trong quy trình sản xuất.",negative
+"Công ty ADB gặp phản hồi tiêu cực về chất lượng sản phẩm và không cải thiện doanh nghiệp.",negative
+"Doanh nghiệp ADC không công khai thông tin về tác động môi trường và gặp khủng hoảng truyền thông.",negative
+"Tập đoàn ADD bị phạt liên tục vì vi phạm quy định sử dụng nguồn nước và an toàn thực phẩm.",negative
+"Công ty ADE không đầu tư vào các giải pháp năng lượng tái tạo và gây thất vọng cho cổ đông.",negative
+"Doanh nghiệp ADF thiếu trách nhiệm xã hội và không giải quyết các phàn nàn về an toàn sản xuất.",negative
+"Tập đoàn ADG không giám sát được mức tiêu thụ năng lượng và gây ra sự cố môi trường.",negative
+"Công ty ADH bị chỉ trích vì không áp dụng công nghệ xanh và gây ảnh hưởng tiêu cực đến sức khỏe cộng đồng.",negative
+"Doanh nghiệp ADI gặp nhiều tranh cãi về đạo đức kinh doanh và không đúng theo tiêu chuẩn ESG.",negative
+"Tập đoàn ADJ không thực hiện đúng các cam kết giảm khí thải và bị kiện tụng từ cộng đồng.",negative
+"Công ty ADK liên tục bị phàn nàn vì sử dụng công nghệ không tiết kiệm và gây ô nhiễm không khí.",negative
+"Doanh nghiệp ADL bị điều tra vì gian lận thông tin trong báo cáo phát triển bền vững.",negative
+"Tập đoàn ADM không có chiến lược cải thiện môi trường và bị môi giới đánh giá thấp.",negative
+"Công ty ADN công bố số liệu tiêu thụ năng lượng trong báo cáo thường niên.",neutral
+"Doanh nghiệp ADO cập nhật thông tin về hệ thống xử lý nước thải.",neutral
+"Tập đoàn ADP phát hành báo cáo tài chính với chỉ số ESG đầy đủ.",neutral
+"Công ty ADQ tổ chức cuộc họp về kế hoạch phát triển bền vững trong năm tới.",neutral
+"Doanh nghiệp ADR ghi nhận số liệu về lượng rác thải tái chế hàng quý.",neutral
+"Tập đoàn ADS công bố thông tin về chính sách an toàn lao động.",neutral
+"Công ty ADT cập nhật số liệu về sử dụng điện năng trong báo cáo cuối năm.",neutral
+"Doanh nghiệp ADU tổ chức sự kiện truyền thông về tiêu chuẩn môi trường.",neutral
+"Tập đoàn ADV phát hành báo cáo đã qua kiểm toán về hiệu quả sử dụng năng lượng.",neutral
+"Công ty ADW cập nhật thông tin về quy trình tái chế và lưu trữ chất thải.",neutral
+"Doanh nghiệp ADX công bố số liệu về tiêu thụ nước trong sản xuất.",neutral
+"Tập đoàn ADY ghi nhận thông tin về chương trình đào tạo an toàn lao động.",neutral
+"Công ty ADZ phát hành báo cáo hàng năm về hiệu quả năng lượng và năng suất lao động.",neutral
+"Doanh nghiệp AEA tổ chức cuộc họp nội bộ về cải tiến quy trình sản xuất.",neutral
+"Tập đoàn AEB cập nhật dữ liệu liên quan đến tỷ lệ sử dụng năng lượng xanh.",neutral
+"Công ty AEC công bố các con số về tiêu thụ nguyên liệu và chất thải.",neutral
+"Doanh nghiệp AED tổ chức hội thảo về quản trị doanh nghiệp bền vững.",neutral
+"Tập đoàn AEE công bố kết quả khảo sát về sự hài lòng của nhân viên trong năm qua.",neutral
+"Công ty AEF cập nhật thông tin về chỉ số phát thải carbon trong báo cáo.",neutral
+"Doanh nghiệp AEG phát hành báo cáo trung hạn về sử dụng năng lượng.",neutral
+"Tập đoàn AEH ghi nhận số liệu về hiệu quả sử dụng nước và điện năng.",neutral
+"Công ty AEI công bố thông tin về dự án xử lý nước thải và tiêu thụ điện.",neutral
+"Doanh nghiệp AEJ cung cấp số liệu về các hoạt động tái chế trong năm.",neutral
+"Tập đoàn AEK tổ chức cuộc họp định kỳ về ESG và báo cáo tài chính.",neutral
+"Công ty AEL cập nhật dữ liệu về năng suất lao động và sử dụng năng lượng xanh.",neutral
+"Doanh nghiệp AEM công bố số liệu về tiêu thụ điện và hiệu quả năng lượng.",neutral
+"Tập đoàn AEN tổ chức cuộc khảo sát về môi trường làm việc và chất thải rác thải.",neutral
+"Công ty AEO cập nhật thông tin về các chỉ số ESG trong báo cáo hàng năm.",neutral
+"Doanh nghiệp AEP phát hành báo cáo về sử dụng nước và xử lý chất thải.",neutral
+"Tập đoàn AEQ công bố số liệu về chất lượng không khí và tiêu thụ điện.",neutral
+"Công ty AER cập nhật thông tin về chương trình tiết kiệm điện trong nhà máy.",neutral
+"Doanh nghiệp AES tổ chức buổi tọa đàm về quy trình sản xuất sạch.",neutral
+"Tập đoàn AET phát hành báo cáo cập nhật về việc giám sát môi trường.",neutral
+"Công ty AEU công bố các số liệu cơ bản về quản trị ESG trong năm tài chính.",neutral
+"Doanh nghiệp AEV cập nhật thông tin về dự án tái chế chất thải và tiêu thụ năng lượng.",neutral
+"Công ty cam kết giảm thiểu khí thải carbon trong vòng ba năm tới.",positive
+"Nhà máy liên tục vi phạm quy định về xử lý nước thải công nghiệp.",negative
+"Doanh nghiệp đang đánh giá lại mô hình quản trị để phù hợp hơn với mục tiêu ESG.",neutral
+"Ban giám đốc đã phê duyệt ngân sách lớn cho dự án năng lượng mặt trời.",positive
+"Chương trình đào tạo cho nhân viên về an toàn lao động bị cắt giảm ngân sách.",negative
+"Họ áp dụng chính sách thúc đẩy bình đẳng giới ở tất cả các cấp quản lý.",positive
+"Báo cáo thường niên mới của công ty bao gồm cả phần trình bày về ESG.",neutral
+"Việc khai thác khoáng sản dẫn đến ô nhiễm nguồn nước khu vực lân cận.",negative
+"Tổ chức phi lợi nhuận hợp tác với doanh nghiệp để nâng cao ý thức bảo vệ môi trường.",positive
+"Hội đồng quản trị bị chỉ trích vì thiếu minh bạch trong công bố thông tin tài chính.",negative
+"Khu công nghiệp trồng thêm cây xanh để cải thiện chất lượng không khí.",positive
+"Chính sách quản trị mới yêu cầu công khai lương thưởng cho cấp quản lý.",neutral
+"Nhà máy tái chế không đáp ứng được tiêu chuẩn nghiêm ngặt của chính phủ.",negative
+"Công ty thường xuyên tổ chức hoạt động tình nguyện hỗ trợ cộng đồng địa phương.",positive
+"Dự án xây dựng đập thủy điện phá vỡ hệ sinh thái sông ngòi.",negative
+"Họ tiến hành khảo sát định kỳ để đánh giá nhận thức về trách nhiệm xã hội.",neutral
+"Tập đoàn công bố chính sách sử dụng năng lượng tái tạo thay thế cho năng lượng hóa thạch.",positive
+"Ban điều hành bỏ qua quyền lợi của người lao động trong quá trình tái cơ cấu.",negative
+"Việc quản lý rác thải được thực hiện nghiêm túc, giảm bớt ô nhiễm tới môi trường biển.",positive
+"Công ty hợp tác với tổ chức quốc tế để xây dựng bộ chỉ số ESG phù hợp.",neutral
+"Họ khuyến khích nhân viên đi làm bằng xe đạp hoặc phương tiện công cộng để tiết kiệm năng lượng.",positive
+"Nhiều báo cáo cho thấy cơ sở sản xuất này lạm dụng lao động trẻ em.",negative
+"Khung đánh giá ESG của doanh nghiệp dựa trên tiêu chuẩn toàn cầu hiện hành.",neutral
+"Cổ đông tán thành việc tăng ngân sách đầu tư vào công nghệ sạch.",positive
+"Hội đồng quản trị không thống nhất được giải pháp giảm tác động tiêu cực đến môi trường.",negative
+"Tổ chức tài chính thưởng điểm tín dụng ưu đãi cho các dự án xanh.",positive
+"Đơn vị kiểm toán độc lập rà soát số liệu về phát thải carbon trong toàn chuỗi cung ứng.",neutral
+"Một số nhà cung cấp từ chối tuân thủ quy định về bảo hộ lao động và an toàn.",negative
+"Chính sách phát triển bền vững được áp dụng toàn diện cho mọi hoạt động nội bộ.",positive
+"Việc khai thác gỗ quá mức đã làm mất cân bằng đa dạng sinh học ở khu vực rừng lân cận.",negative
+"Hoạt động từ thiện mới của công ty hỗ trợ học bổng cho sinh viên có hoàn cảnh khó khăn.",positive
+"Chất lượng không khí tại khu vực nhà máy giảm sút nghiêm trọng do khói bụi.",negative
+"Họ mời các chuyên gia ESG để đào tạo ngắn hạn cho nhân viên cấp cao.",neutral
+"Ban quản lý liên tục giám sát và cập nhật quy trình bảo vệ quyền lợi người lao động.",positive
+"Dự án mở rộng đất nông nghiệp lấn vào khu bảo tồn thiên nhiên.",negative
+"Công ty được vinh danh vì nỗ lực hỗ trợ cộng đồng địa phương bị thiên tai.",positive
+"Hoạt động vận chuyển nhiên liệu hóa thạch gây rò rỉ dầu trên biển.",negative
+"Tập đoàn dành một phần lợi nhuận để xây dựng quỹ phát triển xã hội.",neutral
+"Công ty cung cấp chương trình đào tạo nâng cao kỹ năng cho lao động nữ vùng sâu, vùng xa.",positive
+"Bê bối hối lộ của cấp lãnh đạo làm ảnh hưởng đến uy tín doanh nghiệp.",negative
+"Tập đoàn lắp đặt hệ thống quan trắc và công bố chỉ số môi trường theo thời gian thực.",positive
+"Họ đang họp bàn về kế hoạch thu hút vốn đầu tư cho dự án xanh giai đoạn hai.",neutral
+"Tổ chức này không công khai báo cáo tài chính và thông tin quản trị nội bộ.",negative
+"Sáng kiến tiết kiệm nước giúp giảm đáng kể chi phí vận hành và bảo vệ nguồn tài nguyên.",positive
+"Ban lãnh đạo cắt giảm quỹ an toàn lao động để tăng lợi nhuận.",negative
+"Nhóm chuyên gia đang thẩm định tác động xã hội của nhà máy mới.",neutral
+"Doanh nghiệp nhận chứng chỉ quốc tế về trách nhiệm xã hội và minh bạch quản trị.",positive
+"Việc đốt rác thải công nghiệp bừa bãi đã gây ô nhiễm lớn cho khu dân cư gần đó.",negative
+"Công ty thúc đẩy phong trào tái chế trong toàn bộ chuỗi cung ứng.",positive
+"Thông tin về tiêu chuẩn quản trị ESG được cập nhật thường kỳ lên website chính thức.",neutral
+"Trung tâm nghiên cứu đã tìm ra giải pháp giảm thiểu CO₂ trong quá trình sản xuất.",positive
+"Hàng loạt công bố cho thấy thương hiệu này tuyển dụng lao động trái phép.",negative
+"Hội thảo ESG diễn ra với sự tham gia của nhiều bên liên quan trong ngành năng lượng.",neutral
+"Doanh nghiệp khuyến khích người lao động tham gia hoạt động trồng rừng tình nguyện.",positive
+"Quản lý thiếu trách nhiệm khiến tình trạng tham nhũng nội bộ kéo dài.",negative
+"Quy trình tuyển dụng minh bạch tạo cơ hội cho người khuyết tật.",positive
+"Nhà máy phân bón làm ô nhiễm đồng ruộng xung quanh do hóa chất tràn lan.",negative
+"Các báo cáo ESG được kiểm duyệt bởi bên thứ ba độc lập trước khi công bố.",neutral
+"Họ hỗ trợ tài chính cho dự án phát triển trường học ở vùng khó khăn.",positive
+"Sự cố tràn dầu đã ảnh hưởng nghiêm trọng đến thủy sản và đời sống ngư dân.",negative
+"Các buổi đào tạo về bình đẳng giới được tổ chức định kỳ hằng năm.",positive
+"Hội đồng quản trị không sẵn sàng lắng nghe đề xuất giảm thiểu chất thải nhựa.",negative
+"Liên minh ESG mới được thành lập để chia sẻ thông tin và tiêu chuẩn ngành.",neutral
+"Doanh nghiệp đạt giải thưởng công nghệ sạch nhờ quy trình sản xuất không phát thải.",positive
+"Hoạt động đánh bắt thủy sản quá mức làm suy giảm nguồn lợi biển.",negative
+"Công ty triển khai xe điện cho dịch vụ giao hàng tiết kiệm năng lượng.",positive
+"Đối tác cung cấp nguyên liệu vi phạm quyền lao động dẫn đến tranh chấp pháp lý.",negative
+"Giới phân tích đang đánh giá mức độ cam kết ESG của các chuỗi bán lẻ trong nước.",neutral
+"Chính sách làm việc linh hoạt giúp gia tăng sự hài lòng của nhân viên.",positive
+"Các tiêu chuẩn an toàn lao động hầu như không được chấp hành ở công trường này.",negative
+"Quỹ đầu tư nước ngoài quyết định hỗ trợ tài chính cho dự án năng lượng gió ven biển.",positive
+"Xe tải chở hóa chất bị rò rỉ gây nguy cơ nhiễm độc nguồn nước ngầm.",negative
+"Công ty bổ nhiệm một vị trí chuyên trách nhằm giám sát các vấn đề ESG toàn cầu.",neutral
+"Tập đoàn tổ chức hội nghị thường niên với chủ đề “Phát triển bền vững cho tương lai”.",positive
+"Một số cổ đông cáo buộc hội đồng quản trị để lộ thông tin nội bộ nhằm trục lợi.",negative
+"Người lao động đánh giá cao gói hỗ trợ y tế và an toàn mới.",positive
+"Khu xử lý rác thải rò rỉ khiến môi trường xung quanh bị ảnh hưởng lâu dài.",negative
+"Các quy tắc quản trị rủi ro mới được đưa vào sổ tay nhân viên để tham khảo.",neutral
+"Công ty nhận được xếp hạng ESG cao nhờ minh bạch giao dịch và bảo vệ quyền lợi lao động.",positive
+"Lãnh đạo công ty tài chính thao túng dữ liệu để che giấu khoản lỗ lớn.",negative
+"Dự án nước sạch cho cộng đồng vùng núi được triển khai thành công.",positive
+"Tình trạng ô nhiễm ánh sáng và tiếng ồn gây khó chịu cho cư dân địa phương.",negative
+"Họ dự định tổ chức phiên đối thoại công khai với người dân để lấy ý kiến về hoạt động ESG.",neutral
+"Sáng kiến trồng rừng ngập mặn giúp bảo tồn hệ sinh thái ven biển.",positive
+"Kho hàng lưu trữ chất hóa học độc hại ngay sát khu dân cư mà không có biện pháp phòng ngừa.",negative
+"Bản tin nội bộ tháng này cập nhật nhiều chiến lược mở rộng ESG cho năm tới.",neutral
+"Quản lý cao cấp khẳng định sẽ ưu tiên phúc lợi xã hội thay vì chỉ tập trung lợi nhuận.",positive
+"Một cuộc điều tra tiết lộ công nhân làm thêm giờ quá mức mà không được trả lương tương xứng.",negative
+"Ban kiểm soát đang xem xét báo cáo tuân thủ quy định môi trường để chuẩn bị cho cuộc họp.",neutral
+"Hãng vận tải chuyển sang sử dụng nhiên liệu sinh học nhằm giảm phát thải khí nhà kính.",positive
+"Sự cố hư hỏng ống dẫn dầu đã ảnh hưởng xấu đến đa dạng sinh học biển.",negative
+"Dự án tài trợ bảo tồn động vật hoang dã được gia hạn thêm ba năm.",positive
+"Quy trình sản xuất không đảm bảo an toàn dẫn đến tai nạn lao động nghiêm trọng.",negative
+"Song song với kế hoạch ESG, doanh nghiệp cũng định hướng chuyển đổi số cho hoạt động kinh doanh.",neutral
+"Ban lãnh đạo cam kết công khai thông tin về tiền lương và thưởng cho nhân viên toàn cầu.",positive
+"Không có chính sách rõ ràng về phân loại và tái chế rác thải tại nơi làm việc.",negative
+"Họ phát động tháng hành động bảo vệ môi trường, khuyến khích mọi người tiết kiệm điện.",positive
+"Một cuộc thanh tra độc lập cho thấy họ đổ chất thải rắn mà không qua xử lý.",negative
+"Hội đồng quản trị dự định thuê chuyên gia tư vấn ESG để hoạch định chiến lược 5 năm.",neutral
+"Chương trình chăm sóc sức khỏe và bảo hiểm cộng đồng cho công nhân được đánh giá cao.",positive
+"Đơn vị khai thác cát lòng sông trái phép gây xói mòn đất nghiêm trọng hai bên bờ.",negative
+"Khi áp dụng quy tắc quản lý rủi ro ESG, công ty đã giảm tổn thất đáng kể.",positive
+"Ban quản trị bị phạt vì thiếu báo cáo về công tác an toàn tại các chi nhánh xa.",negative
+"Cuộc khảo sát đánh giá ESG năm nay cho thấy xu hướng thay đổi nhận thức trong ngành hóa chất.",neutral
+"Chính sách bình đẳng tiền lương giữa nam và nữ được triển khai đồng bộ.",positive
+"Hộ dân quanh khu vực nhà máy phàn nàn về mùi hôi bốc ra từ quá trình xử lý nguyên liệu.",negative
+"Kế hoạch ESG ba năm của công ty tập trung vào giảm phát thải và phát triển cộng đồng.",neutral
+"Ban giám đốc xây dựng cơ chế khuyến khích báo cáo vi phạm ẩn danh để bảo vệ người tố giác.",positive
+"Hoạt động sản xuất nhựa dùng một lần tiếp tục mở rộng bất chấp chỉ trích từ công chúng.",negative
+"Công ty cung cấp khóa huấn luyện kỹ năng ứng phó với biến đổi khí hậu cho nông dân.",positive
+"Báo cáo cho thấy dự án dầu khí xả thải vượt mức quy định hàng năm.",negative
+"Doanh nghiệp này đang trong giai đoạn thương thảo với tổ chức môi trường quốc tế.",neutral
+"Quỹ đào tạo nghề miễn phí cho thanh niên thất nghiệp có kết quả tích cực.",positive
+"Công nhân đình công vì môi trường làm việc bí bách và thiếu trang thiết bị bảo hộ.",negative
+"Ban phân tích rủi ro đang cân nhắc tích hợp chỉ số ESG trong quyết định đầu tư.",neutral
+"Chương trình sản xuất sạch hơn giúp giảm chi phí đầu vào và nâng cao hình ảnh thương hiệu.",positive
+"Khu công nghiệp bị chỉ trích nặng nề vì ô nhiễm nước sông kéo dài hàng tháng.",negative
+"Các nhà bán lẻ gộp chung lực lượng để tiên phong xu hướng bao bì thân thiện môi trường.",positive
+"Ban quản lý mỏ quặng không cải tạo lại môi trường sau khi khai thác xong.",negative
+"Một nhóm nghiên cứu đại học vừa ra mắt bộ công cụ đo lường hiệu quả ESG cho doanh nghiệp.",neutral
+"Việc kết hợp năng lượng gió và điện mặt trời liên tục nâng cao hiệu suất sản xuất của công ty.",positive
+"Một nhân viên tiết lộ bê bối sổ sách kế toán bị giả mạo để trốn thuế.",negative
+"Họ xây dựng bản hướng dẫn chi tiết về cách tích hợp ESG vào quy trình mua sắm.",neutral
+"Chương trình chăm sóc sức khỏe tinh thần cho công nhân được công ty tài trợ 100%.",positive
+"Ô nhiễm khói bụi do các lò nung gạch thủ công khiến nhiều người dân bị bệnh hô hấp.",negative
+"Một quỹ đầu tư mới thành lập hướng đến các công ty khởi nghiệp về bền vững.",neutral
+"Nhờ giám sát chặt chẽ, số vụ tai nạn lao động trong năm giảm xuống mức thấp nhất.",positive
+"Hội đồng quản trị ưu tiên trả cổ tức cao thay vì tăng cường biện pháp an toàn.",negative
+"Các nhà nghiên cứu thu thập dữ liệu ESG để phục vụ phân tích xu hướng tương lai.",neutral
+"Họ hợp tác với nông dân để phát triển cây trồng hữu cơ, nâng cao thu nhập địa phương.",positive
+"Việc xả khói độc từ nhà máy thép làm nhiều cư dân lân cận mắc bệnh ung thư.",negative
+"Công ty xuất bản báo cáo ESG định kỳ, phản ánh rõ các chỉ số thành công và hạn chế.",positive
+"Thông tin về rủi ro khí hậu được đề cập trong chiến lược mở rộng thị trường của tập đoàn.",neutral
+"Chính quyền địa phương tặng bằng khen cho doanh nghiệp có đóng góp tích cực về giáo dục.",positive
+"Hệ thống xử lý nước thải hư hỏng khiến ô nhiễm nguồn nước cấp cho khu dân cư.",negative
+"Họ đang yêu cầu tư vấn từ các tổ chức quốc tế để lập chuẩn mực ESG cho chuỗi cung ứng.",neutral
+"Thoả thuận thương mại mới đòi hỏi đối tác cam kết nâng cao tiêu chuẩn lao động.",positive
+"Tập đoàn phát triển bất động sản chậm trễ trong việc giải phóng mặt bằng tái định cư.",negative
+"Ban lãnh đạo triển khai hệ thống giám sát an toàn lao động tại toàn bộ công trường.",positive
+"Báo cáo đánh giá tác động xã hội chưa kết luận được về hiệu quả dài hạn của dự án.",neutral
+"Doanh nghiệp hợp tác với trường đại học để nghiên cứu giải pháp quản lý rác thải nhựa.",positive
+"Đốt rác tự phát trong khu dân cư dẫn đến ô nhiễm và phàn nàn từ cộng đồng.",negative
+"Họ đăng tải công khai biểu đồ phát thải carbon mỗi quý nhằm tăng cường minh bạch.",neutral
+"Công ty hỗ trợ cấp học bổng cho con em công nhân có hoàn cảnh khó khăn.",positive
+"Nhân viên bị từ chối chế độ thai sản dù cam kết lao động đủ điều kiện.",negative
+"Ban nghiên cứu thị trường đánh giá tầm quan trọng của ESG trong quyết định mua sắm hiện nay.",neutral
+"Sử dụng công nghệ lọc tiên tiến, công ty giảm đáng kể lượng nước lãng phí.",positive
+"Những vi phạm liên tục trong quản trị khiến uy tín doanh nghiệp sụt giảm mạnh.",negative
+"Hội nghị trực tuyến bàn về chính sách ESG được phát sóng cho toàn thể nhân viên.",neutral
+"Họ lên lịch làm sạch bờ biển định kỳ, phối hợp với tình nguyện viên và ngư dân địa phương.",positive
+"Tình trạng chặt phá rừng bừa bãi để mở rộng canh tác vẫn tiếp diễn.",negative
+"Tổ chức tài chính phê duyệt vốn vay ưu đãi cho dự án nông nghiệp bền vững.",positive
+"Mặc dù biết rủi ro, hội đồng quản trị vẫn đầu tư lớn vào nhiên liệu hóa thạch.",negative
+"Dữ liệu ESG được cập nhật thường xuyên qua nền tảng trực tuyến của công ty.",neutral
+"Cải tiến quy trình vận hành kho giúp giảm tiêu hao năng lượng và hạn chế sai sót.",positive
+"Bất chấp khuyến nghị chuyên gia, khu du lịch mới xâm lấn vùng bảo tồn san hô.",negative
+"Báo cáo bán niên phản ánh thay đổi tích cực và rủi ro còn tồn tại trong chuỗi cung ứng.",neutral
+"Ban lãnh đạo đã tài trợ cho nghiên cứu trồng rừng ở vùng đất hoang hóa.",positive
+"Cơ sở sản xuất phân đạm gây ô nhiễm không khí khiến người dân khiếu nại kéo dài.",negative
+"Họ tham vấn ý kiến cộng đồng địa phương trước khi đề xuất dự án phát triển công nghiệp.",neutral
+"Các hoạt động thể hiện trách nhiệm xã hội được công ty đăng tải minh bạch lên trang chủ.",positive
+"Nhân viên tố giác giám đốc sắp xếp lợi ích riêng trong kế hoạch tái cấu trúc.",negative
+"Chính sách thể hiện ESG gồm bốn hạng mục chính: môi trường, xã hội, quản trị và báo cáo.",neutral
+"Sáng kiến tuần lễ xanh trong nội bộ giúp nâng cao ý thức của nhân viên về bảo vệ môi trường.",positive
+"Nhiều vụ cháy rừng do nông dân đốt rơm rạ không kiểm soát, làm suy thoái đất nghiêm trọng.",negative
+"Ban quản lý phân bổ kinh phí để nâng cấp trang thiết bị bảo hộ cho công nhân.",positive
+"Các ngân hàng đang cập nhật tiêu chuẩn cho vay dựa trên thang điểm ESG nội bộ.",neutral
+"Quyền lợi lao động bị xem nhẹ khi công ty thay đổi ca làm việc liên tục không báo trước.",negative
+"Chương trình thu gom chai nhựa tại văn phòng khuyến khích nhân viên bảo vệ môi trường.",positive
+"Chạy theo lợi nhuận, doanh nghiệp đã phá bỏ khu sinh quyển được bảo vệ nhiều năm.",negative
+"Hiệp hội ngành đang soạn thảo một hướng dẫn chung về ESG cho hội viên.",neutral
+"Công ty lắp đặt hệ thống quan trắc online, sẵn sàng cho công chúng theo dõi.",positive
+"Trong nhiều năm, họ không có chính sách rõ ràng bảo vệ quyền lợi phụ nữ mang thai.",negative
+"Thông tin ESG được tích hợp một phần vào báo cáo tài chính, phần còn lại là phụ lục riêng.",neutral
+"Hãng thời trang sử dụng vải hữu cơ và tặng lại quần áo cũ cho tổ chức từ thiện.",positive
+"Hoạt động đánh bắt cá voi thương mại vẫn tiếp diễn dù gặp phải làn sóng phản đối.",negative
+"Họ lên kế hoạch ra mắt ứng dụng công bố dữ liệu phát triển bền vững trong quý tới.",neutral
+"Việc giảm sử dụng vật liệu nhựa trong đóng gói đã giúp công ty tiết kiệm chi phí.",positive
+"Đối tác logistics không tuân thủ quy tắc an toàn, gây ra nhiều vụ tai nạn đường bộ.",negative
+"Chính sách quản trị rủi ro mới yêu cầu đánh giá tác động môi trường ở giai đoạn đầu dự án.",neutral
+"Doanh nghiệp đẩy mạnh đầu tư vào công nghệ xử lý nước thải để đạt chuẩn quốc tế.",positive
+"Công ty bảo vệ đường ống dẫn khí chưa tốt dẫn tới nguy cơ cháy nổ liên tục.",negative
+"Hội nghị thường niên ESG tập trung phân tích xu hướng phát triển năng lượng tái tạo.",neutral
+"Họ ưu tiên tuyển dụng người khuyết tật cho các vị trí văn phòng phù hợp.",positive
+"Quá trình khai thác dầu đã gây hiện tượng sụt lún đất khiến cư dân phải di dời.",negative
+"Công ty xây dựng phương pháp luận tính toán dấu chân carbon qua chuỗi cung ứng.",neutral
+"Dự án nghiên cứu giống cây trồng chịu hạn góp phần ổn định sinh kế cho nông dân.",positive
+"Đơn vị vận hành không cung cấp đủ trang thiết bị bảo hộ cho công nhân làm việc ngoài trời.",negative
+"Họ công bố danh sách các nhà cung cấp đủ tiêu chuẩn ESG trên trang web chính thức.",neutral
+"Nhờ áp dụng thiết kế tiết kiệm năng lượng, tòa nhà văn phòng giảm chi phí điện đáng kể.",positive
+"Ban giám đốc độc đoán không tôn trọng ý kiến của cổ đông thiểu số.",negative
+"Kết quả đánh giá ESG nội bộ của công ty cho thấy cả điểm mạnh và điểm yếu cần khắc phục.",neutral
+"Phòng nhân sự chủ động cải thiện môi trường làm việc để nâng cao sức khỏe tinh thần.",positive
+"Công ty kim loại màu xả nước chứa hóa chất độc hại ra sông mà không qua khử trùng.",negative
+"Tập đoàn này công bố lộ trình tăng cường ESG theo giai đoạn, bao gồm mục tiêu ngắn hạn và dài hạn.",neutral
+"Áp dụng các biện pháp tái cơ cấu quản trị, doanh nghiệp tăng hạng trên bảng xếp hạng ESG.",positive
+"Hoạt động khai mỏ gây bụi mịn bay xa, ảnh hưởng đến môi trường sống của động vật.",negative
+"Ban quản trị thuê thêm chuyên gia để đánh giá tính bền vững cho sản phẩm mới.",neutral
+"Các chương trình trao quyền cho phụ nữ giúp tạo cơ hội việc làm cho bà mẹ đơn thân.",positive
+"Lợi ích ngắn hạn được ưu tiên quá mức, khiến nhiều sáng kiến bảo vệ môi trường bị gạt bỏ.",negative
+"Công ty khởi động dự án trồng 10.000 cây xanh trong khu vực đô thị.",positive
+"Nhà máy thép xả nước thải chưa qua xử lý vào hệ thống thoát nước công cộng.",negative
+"Báo cáo ESG quý này sẽ được công bố vào cuối tháng theo lịch trình đã định.",neutral
+"Tập đoàn đầu tư 50 tỷ đồng để chuyển đổi sang năng lượng mặt trời hoàn toàn.",positive
+"Công nhân phản đối việc cắt giảm ngày nghỉ phép và chế độ bảo hiểm.",negative
+"Hội đồng cổ đông sẽ bỏ phiếu về kế hoạch ESG mới trong cuộc họp tháng sau.",neutral
+"Chương trình học bổng cho sinh viên nghèo được mở rộng ra 10 tỉnh thành.",positive
+"Doanh nghiệp bị phạt nặng vì vi phạm quy định về khí thải công nghiệp.",negative
+"Công ty thuê tư vấn ESG quốc tế để đánh giá hiện trạng và đề xuất cải tiến.",neutral
+"Ban lãnh đạo quyết định tăng lương tối thiểu 15% cho toàn bộ lao động.",positive
+"Khu công nghiệp gây ô nhiễm tiếng ồn nghiêm trọng vào ban đêm.",negative
+"Dữ liệu về tiêu thụ năng lượng được cập nhật hàng tháng trên hệ thống nội bộ.",neutral
+"Sáng kiến sử dụng vật liệu tái chế giúp giảm 40% chi phí sản xuất.",positive
+"Nhà quản lý cấp cao bị cáo buộc tham ô quỹ phúc lợi nhân viên.",negative
+"Các tiêu chuẩn ESG mới sẽ được áp dụng từ đầu năm tài chính tiếp theo.",neutral
+"Công ty xây dựng trung tâm chăm sóc trẻ em miễn phí cho con em công nhân.",positive
+"Hoạt động khai thác đá phá hủy cảnh quan thiên nhiên của vùng núi.",negative
+"Ủy ban ESG họp định kỳ mỗi tháng để theo dõi tiến độ thực hiện mục tiêu.",neutral
+"Dự án nông nghiệp sạch tạo việc làm cho 500 hộ dân nông thôn.",positive
+"Công ty dược phẩm thải bỏ hóa chất nguy hại không đúng quy định.",negative
+"Bộ phận quản lý rủi ro đang xây dựng ma trận đánh giá tác động ESG.",neutral
+"Tập đoàn cam kết đạt carbon trung tính vào năm 2030 thông qua công nghệ xanh.",positive
+"Lao động nữ bị phân biệt đối xử trong khâu thăng tiến và đào tạo.",negative
+"Hệ thống báo cáo ESG tự động sẽ được triển khai trong quý 3 năm nay.",neutral
+"Chính sách work-from-home giúp giảm phát thải CO2 từ việc đi lại.",positive
+"Nhà máy xi măng tiếp tục hoạt động bất chấp khiếu nại về ô nhiễm bụi.",negative
+"Công ty đang xem xét các tiêu chuẩn quốc tế về báo cáo bền vững.",neutral
+"Quỹ hỗ trợ giáo dục vùng cao đã trao 1000 suất học bổng năm qua.",positive
+"Ban điều hành che giấu thông tin về sự cố môi trường nghiêm trọng.",negative
+"Các chỉ số ESG được tích hợp vào bảng điều khiển quản lý cấp cao.",neutral
+"Công ty logistics chuyển sang sử dụng 100% xe tải điện cho vận chuyển.",positive
+"Điều kiện lao động tại mỏ than không đảm bảo tiêu chuẩn an toàn tối thiểu.",negative
+"Bộ quy tắc ứng xử ESG được phát hành cho toàn bộ nhân viên và đối tác.",neutral
+"Dự án điện gió ngoài khơi tạo ra nguồn năng lượng sạch cho 200.000 hộ gia đình.",positive
+"Công ty thời trang nhanh sử dụng lao động trẻ em tại các xưởng may gia công.",negative
+"Nhóm nghiên cứu nội bộ phân tích xu hướng ESG trong ngành công nghiệp.",neutral
+"Chương trình đào tạo kỹ năng số miễn phí cho phụ nữ nông thôn được khởi động.",positive
+"Sự cố rò rỉ hóa chất độc khiến 500 hộ dân phải sơ tán khẩn cấp.",negative
+"Công ty đang chuẩn bị hồ sơ để xin chứng nhận ESG từ tổ chức uy tín.",neutral
+"Ban quản trị phê duyệt ngân sách 100 tỷ cho dự án nước sạch nông thôn.",positive
+"Nhà máy giấy xả thải khiến cá chết hàng loạt trên sông địa phương.",negative
+"Khảo sát nhận thức ESG được thực hiện với 5000 nhân viên toàn tập đoàn.",neutral
+"Công ty công nghệ tặng máy tính cho 100 trường học vùng khó khăn.",positive
+"Quản lý nhân sự từ chối cấp phép thai sản cho nhân viên nữ mang thai.",negative
+"Bộ chỉ số đo lường hiệu quả ESG được cập nhật theo chuẩn quốc tế mới nhất.",neutral
+"Sáng kiến thu gom rác thải nhựa trên biển thu được 50 tấn rác trong tháng đầu.",positive
+"Công ty khai thác dầu khí che giấu mức độ ô nhiễm thực tế từ các giếng khoan.",negative
+"Phòng phát triển bền vững được thành lập với 20 chuyên gia ESG chuyên nghiệp.",neutral
+"Chính sách bảo vệ người tố giác giúp phát hiện và xử lý nhiều vi phạm nội bộ.",positive
+"Công ty vận tải biển xả dầu thải trực tiếp ra đại dương để tiết kiệm chi phí.",negative
+"Hội thảo ESG khu vực diễn ra với sự tham gia của 200 doanh nghiệp hàng đầu.",neutral
+"Dự án nhà ở xã hội cung cấp chỗ ở giá rẻ cho 2000 gia đình thu nhập thấp.",positive
+"Nhà máy hóa chất gây ô nhiễm nguồn nước ngầm ảnh hưởng đến 10 xã lân cận.",negative
+"Báo cáo tác động ESG được soạn thảo theo framework GRI mới nhất.",neutral
+"Công ty bảo hiểm ra mắt sản phẩm bảo hiểm xanh ưu đãi cho dự án bền vững.",positive
+"Lãnh đạo doanh nghiệp bị bắt vì tham nhũng trong các hợp đồng công trình lớn.",negative
+"Hệ thống giám sát ESG real-time được tích hợp vào quy trình vận hành.",neutral
+"Tập đoàn thực phẩm chuyển sang bao bì sinh học có thể phân hủy hoàn toàn.",positive
+"Công ty khai thác gỗ phá rừng nguyên sinh để mở rộng diện tích sản xuất.",negative
+"Cơ quan quản lý đang rà soát các tiêu chuẩn ESG hiện hành của ngành.",neutral
+"Chương trình micro-credit hỗ trợ 1000 phụ nữ khởi nghiệp kinh doanh nhỏ.",positive
+"Nhà máy luyện kim xả khói độc vượt ngưỡng cho phép gây hại sức khỏe cộng đồng.",negative
+"Công ty đang triển khai khảo sát đánh giá mức độ hài lòng về chính sách ESG.",neutral
+"Dự án trồng rau sạch tạo thu nhập ổn định cho 300 hộ nông dân địa phương.",positive
+"Ban lãnh đạo thao túng báo cáo tài chính để che đậy thua lỗ từ hoạt động ESG.",negative
+"Quy trình đánh giá nhà cung cấp theo tiêu chí ESG được chuẩn hóa toàn tập đoàn.",neutral
+"Công ty dệt may đầu tư máy móc tiết kiệm nước và năng lượng hiện đại.",positive
+"Hoạt động đốt rác thải y tế không đúng quy định gây ô nhiễm không khí nghiêm trọng.",negative
+"Database ESG tập trung được xây dựng để quản lý dữ liệu từ tất cả chi nhánh.",neutral
+"Quỹ đầu tư xanh cam kết rót 1000 tỷ đồng vào các startup công nghệ sạch.",positive
+"Công ty xây dựng sử dụng vật liệu kém chất lượng gây nguy hiểm cho người dân.",negative
+"Thông tư hướng dẫn thực hiện ESG được ban hành cho toàn ngành tài chính.",neutral
+"Chương trình phân loại rác tại nguồn được triển khai tại 500 cộng đồng dân cư.",positive
+"Nhà máy chế biến thực phẩm xả nước thải chứa vi khuẩn gây bệnh ra môi trường.",negative
+"Ủy ban ESG cấp tập đoàn họp hàng quý để đánh giá tiến độ các mục tiêu.",neutral
+"Công ty viễn thông lắp đặt trạm BTS năng lượng mặt trời tại vùng sâu vùng xa.",positive
+"Tập đoàn dầu khí từ chối công khai thông tin về mức độ phát thải methane.",negative
+"Phần mềm quản lý ESG được nâng cấp với tính năng báo cáo tự động mới.",neutral
+"Dự án xử lý nước thải cộng đồng giúp cải thiện vệ sinh môi trường cho 50.000 dân.",positive
+"Công ty logistics để xảy ra tai nạn giao thông nghiêm trọng do thiếu đào tạo lái xe.",negative
+"Khung đánh giá rủi ro ESG được tích hợp vào quy trình phê duyệt đầu tư.",neutral
+"Sáng kiến văn phòng xanh giúp giảm 30% lượng giấy sử dụng và tiết kiệm điện.",positive
+"Nhà máy nhựa đốt phế liệu nhựa ngoài trời gây ô nhiễm không khí khu dân cư.",negative
+"Bảng xếp hạng ESG nội bộ được công bố hàng năm để khuyến khích cạnh tranh tích cực.",neutral
+"Công ty dược tặng miễn phí thuốc cho 10.000 bệnh nhân nghèo mắc bệnh hiểm nghèo.",positive
+"Ban quản lý che giấu thông tin về tác động môi trường tiêu cực của dự án mới.",negative
+"Chính sách ESG mới yêu cầu tất cả đối tác phải tuân thủ chuẩn mực quốc tế.",neutral
+"Tập đoàn công nghệ đầu tư vào nghiên cứu pin mặt trời hiệu suất cao.",positive
+"Công ty khai thác than đá gây sụt lún nghiêm trọng làm nứt nhà dân địa phương.",negative
+"Hội đồng ESG đa bên liên quan được thành lập để tăng cường giám sát và tư vấn.",neutral
+"Chương trình đào tạo nghề miễn phí cho người khuyết tật tạo cơ hội việc làm bình đẳng.",positive
+"Công ty thép xả gas độc khiến hàng trăm học sinh phải nhập viện cấp cứu.",negative
+"Công cụ đo lường carbon footprint được triển khai cho toàn bộ hoạt động sản xuất.",neutral
+"Dự án năng lượng sinh khối từ rác thải nông nghiệp giảm ô nhiễm và tạo điện sạch.",positive
+"Nhà máy giấy tiếp tục chặt phá rừng trồng bất chấp phản đối từ cộng đồng địa phương.",negative
+"Roadmap chuyển đổi xanh 10 năm được phê duyệt với các mốc thời gian cụ thể.",neutral
+"Công ty bán lẻ cam kết loại bỏ hoàn toàn túi nilon và chuyển sang bao bì tái chế.",positive
+"Tập đoàn thực phẩm sử dụng chất bảo quản cấm để kéo dài thời gian sử dụng sản phẩm.",negative
+"Hệ thống cảnh báo sớm về rủi ro ESG được tích hợp vào dashboard quản lý.",neutral
+"Quỹ hỗ trợ khởi nghiệp xanh dành 500 tỷ đồng cho 100 startup công nghệ sạch.",positive
+"Công ty vận tải từ chối nâng cấp hệ thống phanh khiến tai nạn lao động gia tăng.",negative
+"Mô hình đánh giá ESG được điều chỉnh phù hợp với đặc thù ngành và quy mô doanh nghiệp.",neutral
+"Dự án solar farm cung cấp điện sạch cho toàn bộ hoạt động sản xuất của tập đoàn.",positive
+"Nhà máy hóa chất để rò rỉ axit sulfuric gây bỏng nghiêm trọng cho 20 công nhân.",negative
+"Báo cáo ESG tích hợp được xuất bản lần đầu tiên theo chuẩn mực toàn cầu.",neutral
+"Chương trình cấp nước sạch miễn phí phục vụ 100.000 người dân vùng hạn mặn.",positive
+"Công ty thời trang sử dụng hóa chất độc hại trong quá trình nhuộm vải gây ô nhiễm nước.",negative
+"Platform chia sẻ best practices ESG được ra mắt cho toàn ngành công nghiệp.",neutral
+"Tập đoàn bất động sản xây dựng 50 tòa nhà xanh đạt chứng nhận LEED Platinum.",positive
+"Ban giám đốc cố tình che giấu báo cáo đánh giá tác động môi trường tiêu cực.",negative
+"Chỉ số ESG composite được phát triển để đánh giá tổng thể hiệu quả bền vững.",neutral
+"Công ty công nghệ sinh học phát triển giống lúa chống chịu biến đổi khí hậu.",positive
+"Nhà máy xi măng vượt ngưỡng phát thải CO2 cho phép nhưng từ chối giảm sản lượng.",negative
+"Framework quản trị ESG được chuẩn hóa cho toàn bộ hệ thống công ty con.",neutral
+"Dự án microfinance hỗ trợ 5000 phụ nữ nông thôn tiếp cận nguồn vốn kinh doanh nhỏ.",positive
+"Công ty khai khoáng để xảy ra sập hầm mỏ khiến 10 công nhân thiệt mạng.",negative
